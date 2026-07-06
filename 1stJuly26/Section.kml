@@ -1,0 +1,6738 @@
+<?xml version="1.0" encoding="UTF-8"?><kml:kml xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<kml:Document>
+<kml:Placemark id="section_materialized.149974">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314110120002</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>500 MCM</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>500 MCM</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>500 MCM</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8551137935515,29.516922531303184 67.85561295661293,29.516702845049124</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149975">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314110120068</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.85561295661293,29.516702845049124 67.85579095127515,29.516297920934555 67.85635102845241,29.516266913535958 67.85676204072486,29.516242924382723 67.85712099647843,29.51622390105672 67.85754102659548,29.51623292585646 67.85807597510077,29.516206929343628 67.85844703682888,29.516092889837232 67.85880604081568,29.516041916181123 67.85892004474088,29.51634584195343 67.85900802226737,29.516734914543107 67.85943604969096,29.516665851213432 67.8597750411425,29.516577883950507 67.85995797681915,29.517046913867134 67.86012898208946,29.517475863393482 67.8602730022488,29.517863881562306 67.86044403971222,29.51836385254017 67.8605880218764,29.518773889434016 67.86076403662615,29.519271917295992 67.8609209733071,29.519713920768734 67.8610619856533,29.520149921796303 67.86122596368664,29.52058990963124 67.86136303257696,29.521018927805166 67.86147702609652,29.521407860610584 67.86085795281615,29.521719852707434 67.86103499887278,29.52206185812652 67.86124496315341,29.522412898929655 67.86142705014998,29.522774890812098 67.86160595330436,29.52314488684451 67.86171998980865,29.52342886669153 67.86196498897525,29.523922881189193 67.86207403913468,29.524412843684097 67.8622470503422,29.524894870695835 67.86245899112139,29.525309909091362 67.86275203348117,29.52525484138438 67.86332902607971,29.525154914007857 67.86377901085109,29.525099922616594 67.86428499614804,29.525102893241687 67.86491699528104,29.525075894370797 67.86539996430594,29.525134885850555 67.86590401692692,29.52522789676202 67.8665250049337,29.525327859064873 67.86710296597043,29.52550190261029 67.86771795105386,29.525677883453902 67.86827604379678,29.525838847893088 67.86883901252139,29.526006890502646 67.86949097409253,29.526235880101336 67.87009501408868,29.52643188128264 67.87064599950318,29.52663888989675 67.87122704675183,29.526870878279112 67.87181602213882,29.527048875596638 67.87249199104002,29.527300886058075 67.8730229589779,29.52745284709341 67.87363696356411,29.527644855921505 67.87432003569778,29.5278339274231 67.87488604462906,29.528036894739092 67.87550102243053,29.52823485937549 67.87578502933944,29.52831586404344 67.87613302821347,29.528432874944894 67.87672100454996,29.528618874024612 67.8772949642282,29.528812874057632 67.87785505073403,29.529001881362632 67.87840305180757,29.529182842917272 67.87892698441236,29.529328855447538 67.87913400979862,29.529391876923054 67.88000300112198,29.52938891482396 67.88071903093345,29.52940785158279</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149976">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314110120069</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88071903093345,29.52940785158279 67.88105703781704,29.529392919660918</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149977">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314110120071</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88105703781704,29.529392919660918 67.8815139983893,29.529595843413 67.88199101362366,29.52977691487408</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149978">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314110120073</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88199101362366,29.52977691487408 67.88246698299696,29.530043887794655 67.88300598991232,29.53020887207524</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149979">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314110120074</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88300598991232,29.53020887207524 67.88343100536868,29.530464854855637</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149980">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314110120075</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88343100536868,29.530464854855637 67.88383695629642,29.5306529032193</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149981">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120077</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88383695629642,29.5306529032193 67.8842020523365,29.53092489494476 67.88480996147126,29.53108386268339</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149982">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120078</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88480996147126,29.53108386268339 67.88533400407458,29.531296902210922</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149983">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120080</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88533400407458,29.531296902210922 67.88582900979009,29.53156086444096 67.88627796589863,29.531770924476337</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149984">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120082</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88627796589863,29.531770924476337 67.88671804267443,29.53194390873414 67.8869590275475,29.53202588308029</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149985">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120092</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8869590275475,29.53202588308029 67.8877629793093,29.532404868905676 67.88817499072523,29.532596925683983 67.88856698779605,29.532750911477102 67.88894398913183,29.532926880472075 67.88933404749727,29.5331168550675 67.89008400913578,29.533470919829135 67.88987597328848,29.533876903279427 67.89029896084715,29.53455789543162 67.89073398440274,29.535242867215374 67.89107102122277,29.535800859296135</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149986">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120095</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89107102122277,29.535800859296135 67.89139096344427,29.535409885678014 67.89168796944818,29.535077919817827 67.89205102349777,29.534631894375423</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149987">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120096</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89107102122277,29.535800859296135 67.89055301642865,29.536250912678238</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149988">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120102</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89055301642865,29.536250912678238 67.8901740518259,29.536706908116347 67.88987005017326,29.537054875271387 67.88955799215782,29.537393840233527 67.88906298735483,29.537824857737135 67.88857204701506,29.538317904658413 67.88798103688131,29.538948906923956</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149989">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120103</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88798103688131,29.538948906923956 67.88796497728325,29.538935867693645</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149990">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120104</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88798103688131,29.538948906923956 67.8879520286846,29.538930886177237</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149991">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120111</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88798103688131,29.538948906923956 67.88753100832119,29.53937090941005 67.8872719813798,29.539690910214706 67.88699898938978,29.540060878684105 67.88670302216134,29.540398888309998 67.88646497188529,29.540781872664816 67.88630098863393,29.541129921392223 67.88606195958997,29.541601876854454</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149992">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120113</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88606195958997,29.541601876854454 67.8863450044885,29.541821916843453 67.8868440331036,29.54215684099473</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149993">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120114</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8868440331036,29.54215684099473 67.88682503271737,29.54215785498265</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149994">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120115</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8868440331036,29.54215684099473 67.88720404617128,29.541794911605745</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149995">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120116</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88720404617128,29.541794911605745 67.88719904408352,29.541789906318666</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149996">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120119</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88606195958997,29.541601876854454 67.88586901453544,29.542030901336254 67.88563298979417,29.542397927865352 67.88543195954182,29.542829861830295</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149997">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120120</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88543195954182,29.542829861830295 67.88493501369369,29.54166588272398</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149998">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120121</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88493501369369,29.54166588272398 67.88496101861905,29.54168487160323</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.149999">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120125</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88493501369369,29.54166588272398 67.88453896845803,29.541708853508222 67.88402596300617,29.541829894153988 67.88363905089255,29.54193385330284 67.883329010367,29.54196391623529</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150000">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120126</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.883329010367,29.54196391623529 67.88332595231927,29.541969846605962</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150001">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120128</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88493501369369,29.54166588272398 67.88468002064609,29.54111885223639 67.88446000834837,29.540581861241925</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150002">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120131</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88446000834837,29.540581861241925 67.88415704942626,29.540521922606093 67.88368098340773,29.540662855076405 67.88323495966871,29.54078391400533</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150003">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120132</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88323495966871,29.54078391400533 67.88322703284749,29.54080090340689</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150004">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120139</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88446000834837,29.540581861241925 67.88426905211927,29.5400868966127 67.88403499381536,29.539588862425468 67.88373899556096,29.539045907705177 67.88343497628168,29.538218888518017 67.8832219614693,29.537684842066337 67.88292001617106,29.53696089725142 67.88238603507949,29.53587592141056</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150005">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120140</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88238603507949,29.53587592141056 67.88163197126102,29.536101864463088</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150006">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120141</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88163197126102,29.536101864463088 67.88162898272735,29.536110863666554</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150007">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120147</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88238603507949,29.53587592141056 67.88204300033573,29.535285911468613 67.88176995660578,29.534740889448504 67.88161796873183,29.53438287766616 67.88155201020038,29.534121879645028 67.8817589916217,29.53349588713592 67.88136897414282,29.53334090538596</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150008">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120148</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88136897414282,29.53334090538596 67.88095103297069,29.533172872797664</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150009">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120149</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88095103297069,29.533172872797664 67.88096296567151,29.5331669269554</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150010">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120150</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88095103297069,29.533172872797664 67.88018703183619,29.532934872477302</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150011">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120151</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88018703183619,29.532934872477302 67.88018502661073,29.53293891654137</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150012">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120153</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88018703183619,29.532934872477302 67.88009399477048,29.532902864238103 67.87953604213524,29.53282686893598</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150013">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120154</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.87953604213524,29.53282686893598 67.87953597901424,29.532813873332394</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150014">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120160</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88136897414282,29.53334090538596 67.88162203743792,29.532568925781472 67.88185502763967,29.531810854662098 67.88201001918625,29.531191914243355 67.88180995625535,29.53057991360312 67.88143597810465,29.530571893484915 67.88103796615918,29.530609874696594</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150015">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120161</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88103796615918,29.530609874696594 67.88103297260834,29.530622917977205</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150016">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120162</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88543195954182,29.542829861830295 67.88526900244521,29.543271861156303</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150017">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120163</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88526900244521,29.543271861156303 67.88578399675373,29.543195864030242</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150018">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120164</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88578399675373,29.543195864030242 67.88578800197668,29.543178841592443</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150019">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120165</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88578399675373,29.543195864030242 67.8860630205382,29.543095867399842</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150020">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120166</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8860630205382,29.543095867399842 67.88606195495876,29.54309892674617</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150021">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120170</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8860630205382,29.543095867399842 67.88648697299465,29.543058901626992 67.88707895748094,29.54289790350843 67.8878110086493,29.542734916674576 67.88835295495198,29.542675920396686</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150022">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120171</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88835295495198,29.542675920396686 67.88836803852897,29.542683897779337</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150023">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120172</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88835295495198,29.542675920396686 67.8892380440629,29.542409884316257</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150024">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120173</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8892380440629,29.542409884316257 67.88932702336942,29.542700851468187</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150025">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120174</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88932702336942,29.542700851468187 67.88931896241868,29.54270186700969</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150026">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120182</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8892380440629,29.542409884316257 67.89018499778898,29.542195888071987 67.8912789965317,29.5419548657916 67.89193403878585,29.5418209035306 67.89250603796368,29.54219485902298 67.89301296242779,29.542583882121832 67.89349702295843,29.5429689226998 67.89389699592633,29.543247857008605 67.89411400921885,29.543600891652996</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150027">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314130120183</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89411400921885,29.543600891652996 67.89412700120224,29.543639894795103</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150028">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120184</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88543195954182,29.542829861830295 67.88530301016075,29.54307884486948</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150029">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120185</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88526900244521,29.543271861156303 67.88516197476376,29.543469859873735</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150030">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120186</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88516197476376,29.543469859873735 67.88539998078528,29.54355289530514</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150031">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120187</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88526900244521,29.543271861156303 67.88567400236656,29.54346684530366</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150032">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120189</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88567400236656,29.54346684530366 67.88630096705627,29.54356090154476 67.8868580521888,29.543674854713533</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150033">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120190</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8868580521888,29.543674854713533 67.8868659655508,29.54367789904556</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150034">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120191</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88526900244521,29.543271861156303 67.88472799274933,29.543357925666747</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150035">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120192</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88472799274933,29.543357925666747 67.88470899475412,29.543339897989757</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150036">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120193</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88472799274933,29.543357925666747 67.88401104191318,29.54353591232904</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150037">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120196</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88401104191318,29.54353591232904 67.88404896934115,29.54383186852558 67.88412395551991,29.544098897054564 67.88424002210813,29.544468877349637</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150038">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120197</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88424002210813,29.544468877349637 67.88424599653828,29.54446992019838</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150039">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120199</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88424002210813,29.544468877349637 67.88433896824557,29.54479088474155 67.88442804467654,29.545165872347024</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150040">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120200</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88442804467654,29.545165872347024 67.884419990287,29.54515687061665</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150041">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120201</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88442804467654,29.545165872347024 67.88446200371642,29.545268854538307</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150042">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120203</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88446200371642,29.545268854538307 67.88409396106714,29.545316841729814 67.8837569775183,29.545402900844426</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150043">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120204</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8837569775183,29.545402900844426 67.883707039908,29.54533588162214</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150044">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120205</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88446200371642,29.545268854538307 67.88450999121466,29.545475914972577</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150045">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120207</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88450999121466,29.545475914972577 67.88488305254013,29.545393856724893 67.88536800288492,29.545272848507338</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150046">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120208</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88536800288492,29.545272848507338 67.88537795176268,29.545287912388137</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150047">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120210</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88450999121466,29.545475914972577 67.88460100529112,29.545824928597813 67.88470600885198,29.546215842309064</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150048">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120211</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88470600885198,29.546215842309064 67.88471102357614,29.54620090399022</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150049">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120213</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88470600885198,29.546215842309064 67.8847920125928,29.546588908733444 67.88491504795569,29.547057853716897</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150050">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120214</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88491504795569,29.547057853716897 67.8848089942083,29.547006878458053</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150051">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120215</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8848089942083,29.547006878458053 67.88479499924834,29.547021921887044</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150052">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120219</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88491504795569,29.547057853716897 67.88500599248981,29.547469856377354 67.8851370020406,29.547945907042898 67.8852639972497,29.548392865498514 67.88539899545714,29.548881854163174</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150053">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120220</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88539899545714,29.548881854163174 67.88538799564729,29.548877881410935</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150054">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120222</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88539899545714,29.548881854163174 67.88608301579326,29.54880185979067 67.88658896543025,29.54879084978969</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150055">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120223</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88658896543025,29.54879084978969 67.8865859812052,29.548808873470886</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150056">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120227</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88539899545714,29.548881854163174 67.88550500335258,29.549322860710948 67.88564498172589,29.54979086416235 67.88576301012957,29.55025588581643 67.88593100762802,29.55095487636467</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150057">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120228</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88593100762802,29.55095487636467 67.88614999228838,29.550985861206026</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150058">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120229</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88614999228838,29.550985861206026 67.88614995440132,29.550979904822697</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150059">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120231</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88614999228838,29.550985861206026 67.88689598390162,29.550921904354418 67.88728895845364,29.55092691101136</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150060">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120233</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88728895845364,29.55092691101136 67.88745103405958,29.551526853129513 67.88733097707646,29.552112881136008</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150061">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120236</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88733097707646,29.552112881136008 67.88731298335809,29.55260591071418 67.88728301265189,29.553268858512254 67.88713003863802,29.553900905271103</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150062">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120237</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88713003863802,29.553900905271103 67.88713399405161,29.553897870131834</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150063">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120238</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88713003863802,29.553900905271103 67.88694198551815,29.554314900547453</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150064">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120239</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88694198551815,29.554314900547453 67.88685303110566,29.554030881177482</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150065">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120240</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88685303110566,29.554030881177482 67.8868370323245,29.554030927600603</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150066">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120242</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88694198551815,29.554314900547453 67.88634403828628,29.55522992022429</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150067">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120244</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88634403828628,29.55522992022429 67.88618297445278,29.555525921710597 67.885780967122,29.55570285654464</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150068">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120245</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.885780967122,29.55570285654464 67.88575902565147,29.555698882278744</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150069">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120249</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.885780967122,29.55570285654464 67.88573903102196,29.556382849370465 67.8851169508967,29.55677686617486 67.88505997717661,29.557180858551863 67.88490600393747,29.55773284783462</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150070">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120250</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88490600393747,29.55773284783462 67.88493502530291,29.557721901291206</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150071">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120254</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88713003863802,29.553900905271103 67.88656800215807,29.55369684800392 67.88560800091842,29.55368789571131 67.88450798023777,29.553693914351104 67.88340702974936,29.55362492384402</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150072">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120255</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88340702974936,29.55362492384402 67.88340495075455,29.553616874711782</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150073">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120258</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88340702974936,29.55362492384402 67.8834469927559,29.553228910976046 67.88349003660278,29.552824892302826 67.88294897490194,29.552713856609188</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150074">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120259</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88733097707646,29.552112881136008 67.88786800958864,29.552233882302275</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150075">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120260</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88786800958864,29.552233882302275 67.88833799566781,29.55238888351981</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150076">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120261</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88833799566781,29.55238888351981 67.88833500719437,29.5523978828555</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150077">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120262</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88833799566781,29.55238888351981 67.88834202602507,29.55239785134626</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150078">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120263</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88728895845364,29.55092691101136 67.88757900677527,29.55090587676735</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150079">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120264</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88757900677527,29.55090587676735 67.88758695756938,29.551046903599868</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150080">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120265</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88758695756938,29.551046903599868 67.88758796134323,29.55105891438263</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150081">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120266</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88757900677527,29.55090587676735 67.88795897045473,29.55092087975942</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150082">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120267</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88795897045473,29.55092087975942 67.8879610300948,29.55091187265513</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150083">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120271</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88795897045473,29.55092087975942 67.88901603122073,29.55090490692737 67.88945503357542,29.550900906763705 67.89013298302373,29.55087688219263 67.89105198651244,29.550828876417597</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150084">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120272</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89105198651244,29.550828876417597 67.8911229805117,29.551217877024957</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150085">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120273</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8911229805117,29.551217877024957 67.8911290369457,29.5512209056127</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150086">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120275</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8911229805117,29.551217877024957 67.8913669545241,29.551994924353625 67.8923620349858,29.552618865943984</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150087">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120276</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8923620349858,29.552618865943984 67.89234097489998,29.552590895350182</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150088">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120278</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8923620349858,29.552618865943984 67.89254700621136,29.553232890673126 67.89274696469877,29.553778906219236</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150089">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120279</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89274696469877,29.553778906219236 67.8927530331403,29.553780851913594</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150090">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120280</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89274696469877,29.553778906219236 67.89204598318236,29.553972860647303</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150091">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120281</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89204598318236,29.553972860647303 67.8920559568526,29.55396689751907</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150092">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120282</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89274696469877,29.553778906219236 67.89290396324704,29.554421845908927</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150093">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120283</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89290396324704,29.554421845908927 67.89290502776892,29.55441887674584</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150094">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120286</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89105198651244,29.550828876417597 67.89153601040307,29.550822898840224 67.89222198252966,29.550791891530185 67.89267295499404,29.550702880885844</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150095">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120288</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89267295499404,29.550702880885844 67.89252896022619,29.549984876243357 67.8923210417192,29.549137921896143</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150096">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120289</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8923210417192,29.549137921896143 67.89234598091481,29.54913190302092</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150097">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120290</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89267295499404,29.550702880885844 67.89298902052651,29.550699919867178</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150098">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120291</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89298902052651,29.550699919867178 67.89298796202013,29.550692872051464</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150099">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120293</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89298902052651,29.550699919867178 67.89335104344624,29.5506848873232 67.89358304932601,29.550761902366325</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150100">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120294</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89358304932601,29.550761902366325 67.89356499777564,29.550779890977413</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150101">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120295</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88401104191318,29.54353591232904 67.88351898680378,29.54362788788626</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150102">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120298</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88351898680378,29.54362788788626 67.88352095654773,29.543645862888937 67.88346502636061,29.543851869967284 67.88354898525495,29.54415687644972</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150103">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120299</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88354898525495,29.54415687644972 67.8835480496207,29.544166885612704</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150104">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120301</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88351898680378,29.54362788788626 67.88314898736284,29.543769889818183 67.88263000950569,29.543869847892502</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150105">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120302</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88263000950569,29.543869847892502 67.88261303991955,29.54387385638333</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150106">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120304</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88263000950569,29.543869847892502 67.8821330375873,29.544023864402014 67.8814470182273,29.544156885314614</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150107">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120305</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8814470182273,29.544156885314614 67.88156705202663,29.544296870658627</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150108">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120306</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88156705202663,29.544296870658627 67.88155798464373,29.544304916241245</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150109">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120309</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8814470182273,29.544156885314614 67.88149396823653,29.544063878601232 67.88144799899005,29.543842846414456 67.8813850135504,29.54349884962896</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150110">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120310</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8813850135504,29.54349884962896 67.88139203943494,29.543516867223726</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150111">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120311</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8813850135504,29.54349884962896 67.88128300260776,29.543071861235482</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150112">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120312</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88128300260776,29.543071861235482 67.88127496725433,29.543079915491003</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150113">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120316</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88128300260776,29.543071861235482 67.88121298481664,29.542869848326184 67.88116205196175,29.542677922862953 67.88108795395428,29.54245286344853 67.88103895862871,29.542131906112534</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150114">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314140120317</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88103895862871,29.542131906112534 67.88103299149306,29.5421208461603</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150115">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120321</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8814470182273,29.544156885314614 67.88105300380866,29.544276840227273 67.8807899817229,29.54435692692084 67.88041202608787,29.544414927702825 67.8801220438895,29.544440910562525</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150116">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120322</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8801220438895,29.544440910562525 67.88013502559609,29.544442915090556</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150117">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120323</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>DOG</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8801220438895,29.544440910562525 67.87974503213793,29.54453492450612</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150118">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120339</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89107102122277,29.535800859296135 67.89145499256347,29.536398859052593 67.89183098788668,29.537037852094528 67.89218302122188,29.537612842049764 67.89280804812245,29.53860188790305 67.89321197714517,29.539273868329758 67.89359002510834,29.539915851649234 67.89406097905409,29.540593892481045 67.89419499763231,29.541469920286676 67.89433899584594,29.54214984120661 67.89453595115182,29.543302898804278 67.89466205056256,29.54360788849266 67.89476298061301,29.544205870303475 67.89493704000532,29.544845882080338 67.89504702493855,29.54560791160678 67.89520498126942,29.54635292287537 67.89520305207076,29.54648285764871</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150119">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120340</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89520305207076,29.54648285764871 67.89556296250163,29.546470869510866</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150120">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120341</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89556296250163,29.546470869510866 67.89558297913784,29.546480872456325</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150121">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120343</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89520305207076,29.54648285764871 67.89532296056895,29.547091916182534 67.89550800341632,29.54800392240624</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150122">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120344</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89550800341632,29.54800392240624 67.89492903394336,29.54811489050461</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150123">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120345</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89492903394336,29.54811489050461 67.89492900154701,29.54811786827379</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150124">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120347</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89550800341632,29.54800392240624 67.8956579921083,29.54883685427168 67.8957799708454,29.54940784669549</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150125">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120348</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8957799708454,29.54940784669549 67.89577400580046,29.54940590200121</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150126">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120350</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8957799708454,29.54940784669549 67.8958349573684,29.549694917350756 67.89601002015199,29.55049087674698</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150127">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120351</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89601002015199,29.55049087674698 67.89618497933189,29.55059385457297</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150128">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120352</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89618497933189,29.55059385457297 67.89618396836497,29.550610902210213</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150129">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120353</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89601002015199,29.55049087674698 67.89708899751753,29.550803869337795</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150130">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120354</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89708899751753,29.550803869337795 67.89710595141942,29.55081086859992</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150131">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120355</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>GOPHER</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89708899751753,29.550803869337795 67.8970760413804,29.55080890566111</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150132">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120359</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89601002015199,29.55049087674698 67.89619903908068,29.551474929188647 67.89636099333289,29.552299927774296 67.89653301672936,29.55311986586739 67.89668196014831,29.553907846271223</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150133">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120363</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89668196014831,29.553907846271223 67.89621696042568,29.55405189254944 67.89544303198876,29.55422486380893 67.89482396158093,29.5543659093418 67.89484501416663,29.55483092880421</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150134">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120364</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89484501416663,29.55483092880421 67.89484802393464,29.55483889527253</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150135">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120365</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89668196014831,29.553907846271223 67.89676000689064,29.554314861152903</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150136">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120366</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89676000689064,29.554314861152903 67.89676804659682,29.554296879213894</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150137">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120367</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.89676000689064,29.554314861152903 67.8968469800519,29.554821849701593</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150138">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120368</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8968469800519,29.554821849701593 67.8968430356649,29.55482389254697</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150139">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120370</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8968469800519,29.554821849701593 67.89698603524627,29.55565586198232 67.8971910433491,29.556518848332523</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150140">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120371</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8971910433491,29.556518848332523 67.8971859799693,29.556509872186965</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150141">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120378</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8971910433491,29.556518848332523 67.89738495582685,29.557367844716218 67.89749497023946,29.55826289056395 67.89771901699757,29.55903687339345 67.89787100269805,29.559859891822853 67.89802099654837,29.560666920402003 67.89817002110341,29.56151590393228 67.8983600338939,29.562392841711112</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150142">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120379</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.8983600338939,29.562392841711112 67.89836002841363,29.562402858689946</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150143">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120380</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88627796589863,29.531770924476337 67.88618795655218,29.531650868032855</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150144">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120381</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88533400407458,29.531296902210922 67.88536800692194,29.531310904426334</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150145">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120382</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88480996147126,29.53108386268339 67.88462202256925,29.530935910357226</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150146">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120383</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88383695629642,29.5306529032193 67.88376097084857,29.530552906801738</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150147">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120384</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88343100536868,29.530464854855637 67.88360095866786,29.530389846189937</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150148">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120385</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88300598991232,29.53020887207524 67.88297104797061,29.53014892735951</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150149">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120386</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88199101362366,29.52977691487408 67.88217596935546,29.529810868042755</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150150">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120387</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88105703781704,29.529392919660918 67.88124904637253,29.529432889559725</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150151">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314150120388</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88071903093345,29.52940785158279 67.88040295937498,29.52902391016992</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150152">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314160120391</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88593100762802,29.55095487636467 67.88545802191413,29.550951901759117 67.88485903922313,29.550927924114973 67.88450999859651,29.550944847345548</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150153">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314160120392</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88450999859651,29.550944847345548 67.88449898296246,29.55088591615773</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150154">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314160120395</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88450999859651,29.550944847345548 67.88425996560119,29.550902860089554 67.88381202769989,29.550902887533724 67.88337697617061,29.550894899875946</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+<kml:Placemark id="section_materialized.150155">
+<kml:ExtendedData>
+<kml:Data name="section_id">
+<kml:value>02001314160120396</kml:value>
+</kml:Data>
+<kml:Data name="substation">
+<kml:value>220 KV-SIBI</kml:value>
+</kml:Data>
+<kml:Data name="feedercode">
+<kml:value>020013</kml:value>
+</kml:Data>
+<kml:Data name="feeder"/>
+<kml:Data name="line_voltage">
+<kml:value>11</kml:value>
+</kml:Data>
+<kml:Data name="pole_number"/>
+<kml:Data name="pole_phase">
+<kml:value>R-Y-B</kml:value>
+</kml:Data>
+<kml:Data name="con_size_a">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_b">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_c">
+<kml:value>RABBIT</kml:value>
+</kml:Data>
+<kml:Data name="con_size_n"/>
+<kml:Data name="wo_id">
+<kml:value>386</kml:value>
+</kml:Data>
+</kml:ExtendedData>
+<kml:LineString>
+<kml:coordinates>67.88337697617061,29.550894899875946 67.88334604226013,29.550835891429223</kml:coordinates>
+</kml:LineString>
+</kml:Placemark>
+</kml:Document>
+</kml:kml>

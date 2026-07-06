@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2025-08-26T05:43:27.333Z</time>
+  <bounds minlat="30.171182000" minlon="67.004295121" maxlat="30.176443000" maxlon="67.011978000"/>
+  <wpt lat="30.173329163" lon="67.004295121">
+    <ele>1705.310</ele>
+    <time>2025-08-22T19:47:32Z</time>
+    <name>533</name>
+    <cmt>533</cmt>
+    <desc>533</desc>
+  </wpt>
+  <wpt lat="30.173406544" lon="67.004415368">
+    <ele>1704.950</ele>
+    <time>2025-08-22T19:48:09Z</time>
+    <name>534</name>
+    <cmt>534</cmt>
+    <desc>534</desc>
+  </wpt>
+  <wpt lat="30.173573269" lon="67.004776196">
+    <ele>1704.420</ele>
+    <time>2025-08-22T19:48:53Z</time>
+    <name>535</name>
+    <cmt>535</cmt>
+    <desc>535</desc>
+  </wpt>
+  <wpt lat="30.173559739" lon="67.004790846">
+    <ele>1704.630</ele>
+    <time>2025-08-22T19:49:03Z</time>
+    <name>536</name>
+    <cmt>536</cmt>
+    <desc>536</desc>
+  </wpt>
+  <wpt lat="30.173665000" lon="67.004939000">
+    <ele>1703.710</ele>
+    <time>2025-08-23T06:13:19Z</time>
+    <name>537</name>
+    <cmt>537</cmt>
+    <desc>537</desc>
+  </wpt>
+  <wpt lat="30.173698000" lon="67.004956000">
+    <ele>1703.460</ele>
+    <time>2025-08-23T06:13:28Z</time>
+    <name>538</name>
+    <cmt>538</cmt>
+    <desc>538</desc>
+  </wpt>
+  <wpt lat="30.173755000" lon="67.005087000">
+    <ele>1702.650</ele>
+    <time>2025-08-23T06:15:31Z</time>
+    <name>539</name>
+    <cmt>539</cmt>
+    <desc>539</desc>
+  </wpt>
+  <wpt lat="30.173967000" lon="67.005548000">
+    <ele>1703.040</ele>
+    <time>2025-08-23T06:16:20Z</time>
+    <name>540</name>
+    <cmt>540</cmt>
+    <desc>540</desc>
+  </wpt>
+  <wpt lat="30.173961000" lon="67.005537000">
+    <ele>1703.310</ele>
+    <time>2025-08-23T06:16:27Z</time>
+    <name>541</name>
+    <cmt>541</cmt>
+    <desc>541</desc>
+  </wpt>
+  <wpt lat="30.173711000" lon="67.005754000">
+    <ele>1704.150</ele>
+    <time>2025-08-23T06:17:47Z</time>
+    <name>542</name>
+    <cmt>542</cmt>
+    <desc>542</desc>
+  </wpt>
+  <wpt lat="30.173746000" lon="67.005761000">
+    <ele>1704.640</ele>
+    <time>2025-08-23T06:17:56Z</time>
+    <name>543</name>
+    <cmt>543</cmt>
+    <desc>543</desc>
+  </wpt>
+  <wpt lat="30.172994000" lon="67.006699000">
+    <ele>1703.110</ele>
+    <time>2025-08-23T06:21:25Z</time>
+    <name>544</name>
+    <cmt>544</cmt>
+    <desc>544</desc>
+  </wpt>
+  <wpt lat="30.172616000" lon="67.007375000">
+    <ele>1704.510</ele>
+    <time>2025-08-23T06:22:31Z</time>
+    <name>545</name>
+    <cmt>545</cmt>
+    <desc>545</desc>
+  </wpt>
+  <wpt lat="30.172186000" lon="67.008135000">
+    <ele>1704.360</ele>
+    <time>2025-08-23T06:23:42Z</time>
+    <name>546</name>
+    <cmt>546</cmt>
+    <desc>546</desc>
+  </wpt>
+  <wpt lat="30.171783000" lon="67.008890000">
+    <ele>1710.320</ele>
+    <time>2025-08-23T06:25:47Z</time>
+    <name>547</name>
+    <cmt>547</cmt>
+    <desc>547</desc>
+  </wpt>
+  <wpt lat="30.171182000" lon="67.009956000">
+    <ele>1711.620</ele>
+    <time>2025-08-23T06:27:37Z</time>
+    <name>548</name>
+    <cmt>548</cmt>
+    <desc>548</desc>
+  </wpt>
+  <wpt lat="30.174059000" lon="67.005659000">
+    <ele>1701.040</ele>
+    <time>2025-08-23T06:33:20Z</time>
+    <name>549</name>
+    <cmt>549</cmt>
+    <desc>549</desc>
+  </wpt>
+  <wpt lat="30.174063000" lon="67.005689000">
+    <ele>1701.920</ele>
+    <time>2025-08-23T06:33:28Z</time>
+    <name>550</name>
+    <cmt>550</cmt>
+    <desc>550</desc>
+  </wpt>
+  <wpt lat="30.173837000" lon="67.006053000">
+    <ele>1702.150</ele>
+    <time>2025-08-23T06:34:52Z</time>
+    <name>551</name>
+    <cmt>551</cmt>
+    <desc>551</desc>
+  </wpt>
+  <wpt lat="30.173601000" lon="67.006427000">
+    <ele>1702.740</ele>
+    <time>2025-08-23T06:35:08Z</time>
+    <name>552</name>
+    <cmt>552</cmt>
+    <desc>552</desc>
+  </wpt>
+  <wpt lat="30.173285000" lon="67.006917000">
+    <ele>1702.990</ele>
+    <time>2025-08-23T06:35:24Z</time>
+    <name>553</name>
+    <cmt>553</cmt>
+    <desc>553</desc>
+  </wpt>
+  <wpt lat="30.173014000" lon="67.007402000">
+    <ele>1703.970</ele>
+    <time>2025-08-23T06:35:52Z</time>
+    <name>554</name>
+    <cmt>554</cmt>
+    <desc>554</desc>
+  </wpt>
+  <wpt lat="30.172825000" lon="67.007775000">
+    <ele>1704.320</ele>
+    <time>2025-08-23T06:40:08Z</time>
+    <name>555</name>
+    <cmt>555</cmt>
+    <desc>555</desc>
+  </wpt>
+  <wpt lat="30.172776000" lon="67.008200000">
+    <ele>1705.340</ele>
+    <time>2025-08-23T06:41:09Z</time>
+    <name>556</name>
+    <cmt>556</cmt>
+    <desc>556</desc>
+  </wpt>
+  <wpt lat="30.172764000" lon="67.008193000">
+    <ele>1705.590</ele>
+    <time>2025-08-23T06:41:17Z</time>
+    <name>557</name>
+    <cmt>557</cmt>
+    <desc>557</desc>
+  </wpt>
+  <wpt lat="30.174388000" lon="67.006061000">
+    <ele>1701.290</ele>
+    <time>2025-08-23T06:44:58Z</time>
+    <name>558</name>
+    <cmt>558</cmt>
+    <desc>558</desc>
+  </wpt>
+  <wpt lat="30.174417000" lon="67.006067000">
+    <ele>1701.710</ele>
+    <time>2025-08-23T06:45:08Z</time>
+    <name>559</name>
+    <cmt>559</cmt>
+    <desc>559</desc>
+  </wpt>
+  <wpt lat="30.174588000" lon="67.006290000">
+    <ele>1701.850</ele>
+    <time>2025-08-23T06:47:18Z</time>
+    <name>560</name>
+    <cmt>560</cmt>
+    <desc>560</desc>
+  </wpt>
+  <wpt lat="30.174573000" lon="67.006281000">
+    <ele>1702.020</ele>
+    <time>2025-08-23T06:47:25Z</time>
+    <name>561</name>
+    <cmt>561</cmt>
+    <desc>561</desc>
+  </wpt>
+  <wpt lat="30.174623000" lon="67.006313000">
+    <ele>1702.280</ele>
+    <time>2025-08-23T06:47:37Z</time>
+    <name>562</name>
+    <cmt>562</cmt>
+    <desc>562</desc>
+  </wpt>
+  <wpt lat="30.174783000" lon="67.006468000">
+    <ele>1702.060</ele>
+    <time>2025-08-23T06:50:58Z</time>
+    <name>563</name>
+    <cmt>563</cmt>
+    <desc>563</desc>
+  </wpt>
+  <wpt lat="30.174762000" lon="67.006468000">
+    <ele>1702.380</ele>
+    <time>2025-08-23T06:51:33Z</time>
+    <name>564</name>
+    <cmt>564</cmt>
+    <desc>564</desc>
+  </wpt>
+  <wpt lat="30.174495000" lon="67.006927000">
+    <ele>1702.760</ele>
+    <time>2025-08-23T06:54:16Z</time>
+    <name>565</name>
+    <cmt>565</cmt>
+    <desc>565</desc>
+  </wpt>
+  <wpt lat="30.174480000" lon="67.006986000">
+    <ele>1702.780</ele>
+    <time>2025-08-23T06:54:23Z</time>
+    <name>566</name>
+    <cmt>566</cmt>
+    <desc>566</desc>
+  </wpt>
+  <wpt lat="30.174512000" lon="67.006971000">
+    <ele>1702.930</ele>
+    <time>2025-08-23T06:54:31Z</time>
+    <name>567</name>
+    <cmt>567</cmt>
+    <desc>567</desc>
+  </wpt>
+  <wpt lat="30.174310000" lon="67.007256000">
+    <ele>1702.720</ele>
+    <time>2025-08-23T06:57:27Z</time>
+    <name>568</name>
+    <cmt>568</cmt>
+    <desc>568</desc>
+  </wpt>
+  <wpt lat="30.174317000" lon="67.007245000">
+    <ele>1703.040</ele>
+    <time>2025-08-23T06:57:42Z</time>
+    <name>569</name>
+    <cmt>569</cmt>
+    <desc>569</desc>
+  </wpt>
+  <wpt lat="30.174290000" lon="67.007286000">
+    <ele>1703.120</ele>
+    <time>2025-08-23T06:57:51Z</time>
+    <name>570</name>
+    <cmt>570</cmt>
+    <desc>570</desc>
+  </wpt>
+  <wpt lat="30.174347000" lon="67.007295000">
+    <ele>1703.590</ele>
+    <time>2025-08-23T07:02:01Z</time>
+    <name>571</name>
+    <cmt>571</cmt>
+    <desc>571</desc>
+  </wpt>
+  <wpt lat="30.174344000" lon="67.007313000">
+    <ele>1703.380</ele>
+    <time>2025-08-23T07:02:10Z</time>
+    <name>572</name>
+    <cmt>572</cmt>
+    <desc>572</desc>
+  </wpt>
+  <wpt lat="30.174333000" lon="67.007265000">
+    <ele>1703.750</ele>
+    <time>2025-08-23T07:02:19Z</time>
+    <name>573</name>
+    <cmt>573</cmt>
+    <desc>573</desc>
+  </wpt>
+  <wpt lat="30.174115000" lon="67.007801000">
+    <ele>1704.540</ele>
+    <time>2025-08-23T07:08:39Z</time>
+    <name>574</name>
+    <cmt>574</cmt>
+    <desc>574</desc>
+  </wpt>
+  <wpt lat="30.174086000" lon="67.007802000">
+    <ele>1704.500</ele>
+    <time>2025-08-23T07:08:47Z</time>
+    <name>575</name>
+    <cmt>575</cmt>
+    <desc>575</desc>
+  </wpt>
+  <wpt lat="30.174088000" lon="67.007824000">
+    <ele>1704.330</ele>
+    <time>2025-08-23T07:08:53Z</time>
+    <name>576</name>
+    <cmt>576</cmt>
+    <desc>576</desc>
+  </wpt>
+  <wpt lat="30.174093000" lon="67.007819000">
+    <ele>1704.320</ele>
+    <time>2025-08-23T07:08:58Z</time>
+    <name>577</name>
+    <cmt>577</cmt>
+    <desc>577</desc>
+  </wpt>
+  <wpt lat="30.173988000" lon="67.008043000">
+    <ele>1704.670</ele>
+    <time>2025-08-23T07:11:36Z</time>
+    <name>578</name>
+    <cmt>578</cmt>
+    <desc>578</desc>
+  </wpt>
+  <wpt lat="30.173897000" lon="67.008183000">
+    <ele>1705.160</ele>
+    <time>2025-08-23T07:11:48Z</time>
+    <name>579</name>
+    <cmt>579</cmt>
+    <desc>579</desc>
+  </wpt>
+  <wpt lat="30.173815000" lon="67.008353000">
+    <ele>1705.110</ele>
+    <time>2025-08-23T07:12:37Z</time>
+    <name>580</name>
+    <cmt>580</cmt>
+    <desc>580</desc>
+  </wpt>
+  <wpt lat="30.173807000" lon="67.008338000">
+    <ele>1704.830</ele>
+    <time>2025-08-23T07:12:45Z</time>
+    <name>581</name>
+    <cmt>581</cmt>
+    <desc>581</desc>
+  </wpt>
+  <wpt lat="30.173799000" lon="67.008334000">
+    <ele>1704.810</ele>
+    <time>2025-08-23T07:12:50Z</time>
+    <name>582</name>
+    <cmt>582</cmt>
+    <desc>582</desc>
+  </wpt>
+  <wpt lat="30.173720000" lon="67.008429000">
+    <ele>1704.950</ele>
+    <time>2025-08-23T07:18:07Z</time>
+    <name>583</name>
+    <cmt>583</cmt>
+    <desc>583</desc>
+  </wpt>
+  <wpt lat="30.173729000" lon="67.008431000">
+    <ele>1704.940</ele>
+    <time>2025-08-23T07:18:13Z</time>
+    <name>584</name>
+    <cmt>584</cmt>
+    <desc>584</desc>
+  </wpt>
+  <wpt lat="30.173618000" lon="67.008640000">
+    <ele>1704.340</ele>
+    <time>2025-08-23T07:20:41Z</time>
+    <name>585</name>
+    <cmt>585</cmt>
+    <desc>585</desc>
+  </wpt>
+  <wpt lat="30.173608000" lon="67.008626000">
+    <ele>1704.480</ele>
+    <time>2025-08-23T07:20:47Z</time>
+    <name>586</name>
+    <cmt>586</cmt>
+    <desc>586</desc>
+  </wpt>
+  <wpt lat="30.173447000" lon="67.008834000">
+    <ele>1704.800</ele>
+    <time>2025-08-23T07:21:08Z</time>
+    <name>587</name>
+    <cmt>587</cmt>
+    <desc>587</desc>
+  </wpt>
+  <wpt lat="30.173255000" lon="67.009152000">
+    <ele>1705.200</ele>
+    <time>2025-08-23T07:21:28Z</time>
+    <name>588</name>
+    <cmt>588</cmt>
+    <desc>588</desc>
+  </wpt>
+  <wpt lat="30.173257000" lon="67.009147000">
+    <ele>1705.200</ele>
+    <time>2025-08-23T07:21:33Z</time>
+    <name>589</name>
+    <cmt>589</cmt>
+    <desc>589</desc>
+  </wpt>
+  <wpt lat="30.173118000" lon="67.009375000">
+    <ele>1706.000</ele>
+    <time>2025-08-23T07:23:39Z</time>
+    <name>590</name>
+    <cmt>590</cmt>
+    <desc>590</desc>
+  </wpt>
+  <wpt lat="30.173059000" lon="67.009498000">
+    <ele>1705.470</ele>
+    <time>2025-08-23T07:25:55Z</time>
+    <name>591</name>
+    <cmt>591</cmt>
+    <desc>591</desc>
+  </wpt>
+  <wpt lat="30.173056000" lon="67.009472000">
+    <ele>1706.550</ele>
+    <time>2025-08-23T07:26:02Z</time>
+    <name>592</name>
+    <cmt>592</cmt>
+    <desc>592</desc>
+  </wpt>
+  <wpt lat="30.174950000" lon="67.006606000">
+    <ele>1705.620</ele>
+    <time>2025-08-23T07:32:01Z</time>
+    <name>593</name>
+    <cmt>593</cmt>
+    <desc>593</desc>
+  </wpt>
+  <wpt lat="30.174937000" lon="67.006606000">
+    <ele>1705.600</ele>
+    <time>2025-08-23T07:32:10Z</time>
+    <name>594</name>
+    <cmt>594</cmt>
+    <desc>594</desc>
+  </wpt>
+  <wpt lat="30.174974000" lon="67.006652000">
+    <ele>1705.640</ele>
+    <time>2025-08-23T07:32:21Z</time>
+    <name>595</name>
+    <cmt>595</cmt>
+    <desc>595</desc>
+  </wpt>
+  <wpt lat="30.175222000" lon="67.006941000">
+    <ele>1705.450</ele>
+    <time>2025-08-23T07:35:43Z</time>
+    <name>596</name>
+    <cmt>596</cmt>
+    <desc>596</desc>
+  </wpt>
+  <wpt lat="30.175241000" lon="67.006952000">
+    <ele>1705.500</ele>
+    <time>2025-08-23T07:35:51Z</time>
+    <name>597</name>
+    <cmt>597</cmt>
+    <desc>597</desc>
+  </wpt>
+  <wpt lat="30.175444000" lon="67.007211000">
+    <ele>1705.230</ele>
+    <time>2025-08-23T07:37:17Z</time>
+    <name>598</name>
+    <cmt>598</cmt>
+    <desc>598</desc>
+  </wpt>
+  <wpt lat="30.175211000" lon="67.007564000">
+    <ele>1705.490</ele>
+    <time>2025-08-23T07:38:07Z</time>
+    <name>599</name>
+    <cmt>599</cmt>
+    <desc>599</desc>
+  </wpt>
+  <wpt lat="30.175223000" lon="67.007524000">
+    <ele>1705.590</ele>
+    <time>2025-08-23T07:38:14Z</time>
+    <name>600</name>
+    <cmt>600</cmt>
+    <desc>600</desc>
+  </wpt>
+  <wpt lat="30.174985000" lon="67.007869000">
+    <ele>1705.720</ele>
+    <time>2025-08-23T07:39:11Z</time>
+    <name>601</name>
+    <cmt>601</cmt>
+    <desc>601</desc>
+  </wpt>
+  <wpt lat="30.174682000" lon="67.008279000">
+    <ele>1706.640</ele>
+    <time>2025-08-23T07:39:39Z</time>
+    <name>602</name>
+    <cmt>602</cmt>
+    <desc>602</desc>
+  </wpt>
+  <wpt lat="30.174705000" lon="67.008285000">
+    <ele>1706.610</ele>
+    <time>2025-08-23T07:39:45Z</time>
+    <name>603</name>
+    <cmt>603</cmt>
+    <desc>603</desc>
+  </wpt>
+  <wpt lat="30.174491000" lon="67.008591000">
+    <ele>1707.670</ele>
+    <time>2025-08-23T07:42:12Z</time>
+    <name>604</name>
+    <cmt>604</cmt>
+    <desc>604</desc>
+  </wpt>
+  <wpt lat="30.174239000" lon="67.008943000">
+    <ele>1708.090</ele>
+    <time>2025-08-23T07:42:27Z</time>
+    <name>605</name>
+    <cmt>605</cmt>
+    <desc>605</desc>
+  </wpt>
+  <wpt lat="30.174076000" lon="67.009216000">
+    <ele>1708.670</ele>
+    <time>2025-08-23T07:42:41Z</time>
+    <name>606</name>
+    <cmt>606</cmt>
+    <desc>606</desc>
+  </wpt>
+  <wpt lat="30.173712000" lon="67.009586000">
+    <ele>1710.060</ele>
+    <time>2025-08-23T07:43:41Z</time>
+    <name>607</name>
+    <cmt>607</cmt>
+    <desc>607</desc>
+  </wpt>
+  <wpt lat="30.173724000" lon="67.009589000">
+    <ele>1709.680</ele>
+    <time>2025-08-23T07:43:47Z</time>
+    <name>608</name>
+    <cmt>608</cmt>
+    <desc>608</desc>
+  </wpt>
+  <wpt lat="30.173586000" lon="67.009774000">
+    <ele>1710.290</ele>
+    <time>2025-08-23T07:45:17Z</time>
+    <name>609</name>
+    <cmt>609</cmt>
+    <desc>609</desc>
+  </wpt>
+  <wpt lat="30.173441000" lon="67.009927000">
+    <ele>1710.570</ele>
+    <time>2025-08-23T07:45:40Z</time>
+    <name>610</name>
+    <cmt>610</cmt>
+    <desc>610</desc>
+  </wpt>
+  <wpt lat="30.173452000" lon="67.009917000">
+    <ele>1711.210</ele>
+    <time>2025-08-23T07:45:46Z</time>
+    <name>611</name>
+    <cmt>611</cmt>
+    <desc>611</desc>
+  </wpt>
+  <wpt lat="30.175777000" lon="67.007521000">
+    <ele>1706.700</ele>
+    <time>2025-08-23T07:48:20Z</time>
+    <name>612</name>
+    <cmt>612</cmt>
+    <desc>612</desc>
+  </wpt>
+  <wpt lat="30.175932000" lon="67.007670000">
+    <ele>1707.100</ele>
+    <time>2025-08-23T07:49:08Z</time>
+    <name>613</name>
+    <cmt>613</cmt>
+    <desc>613</desc>
+  </wpt>
+  <wpt lat="30.175779000" lon="67.007829000">
+    <ele>1708.700</ele>
+    <time>2025-08-23T07:52:55Z</time>
+    <name>614</name>
+    <cmt>614</cmt>
+    <desc>614</desc>
+  </wpt>
+  <wpt lat="30.175612000" lon="67.008095000">
+    <ele>1708.740</ele>
+    <time>2025-08-23T07:53:43Z</time>
+    <name>615</name>
+    <cmt>615</cmt>
+    <desc>615</desc>
+  </wpt>
+  <wpt lat="30.175606000" lon="67.008118000">
+    <ele>1709.180</ele>
+    <time>2025-08-23T07:53:50Z</time>
+    <name>616</name>
+    <cmt>616</cmt>
+    <desc>616</desc>
+  </wpt>
+  <wpt lat="30.175350000" lon="67.008435000">
+    <ele>1709.930</ele>
+    <time>2025-08-23T07:56:05Z</time>
+    <name>617</name>
+    <cmt>617</cmt>
+    <desc>617</desc>
+  </wpt>
+  <wpt lat="30.175342000" lon="67.008461000">
+    <ele>1710.270</ele>
+    <time>2025-08-23T07:56:18Z</time>
+    <name>618</name>
+    <cmt>618</cmt>
+    <desc>618</desc>
+  </wpt>
+  <wpt lat="30.175246000" lon="67.008686000">
+    <ele>1710.770</ele>
+    <time>2025-08-23T07:57:16Z</time>
+    <name>619</name>
+    <cmt>619</cmt>
+    <desc>619</desc>
+  </wpt>
+  <wpt lat="30.175250000" lon="67.008681000">
+    <ele>1710.580</ele>
+    <time>2025-08-23T07:57:23Z</time>
+    <name>620</name>
+    <cmt>620</cmt>
+    <desc>620</desc>
+  </wpt>
+  <wpt lat="30.175203000" lon="67.008696000">
+    <ele>1710.460</ele>
+    <time>2025-08-23T07:57:33Z</time>
+    <name>621</name>
+    <cmt>621</cmt>
+    <desc>621</desc>
+  </wpt>
+  <wpt lat="30.175011000" lon="67.008892000">
+    <ele>1711.310</ele>
+    <time>2025-08-23T08:00:58Z</time>
+    <name>622</name>
+    <cmt>622</cmt>
+    <desc>622</desc>
+  </wpt>
+  <wpt lat="30.174921000" lon="67.009132000">
+    <ele>1711.010</ele>
+    <time>2025-08-23T08:11:49Z</time>
+    <name>623</name>
+    <cmt>623</cmt>
+    <desc>623</desc>
+  </wpt>
+  <wpt lat="30.174611000" lon="67.009500000">
+    <ele>1712.440</ele>
+    <time>2025-08-23T08:12:17Z</time>
+    <name>624</name>
+    <cmt>624</cmt>
+    <desc>624</desc>
+  </wpt>
+  <wpt lat="30.174586000" lon="67.009522000">
+    <ele>1712.480</ele>
+    <time>2025-08-23T08:12:26Z</time>
+    <name>625</name>
+    <cmt>625</cmt>
+    <desc>625</desc>
+  </wpt>
+  <wpt lat="30.174435000" lon="67.009807000">
+    <ele>1713.200</ele>
+    <time>2025-08-23T08:15:20Z</time>
+    <name>626</name>
+    <cmt>626</cmt>
+    <desc>626</desc>
+  </wpt>
+  <wpt lat="30.174569000" lon="67.010046000">
+    <ele>1713.920</ele>
+    <time>2025-08-23T08:16:32Z</time>
+    <name>627</name>
+    <cmt>627</cmt>
+    <desc>627</desc>
+  </wpt>
+  <wpt lat="30.174675000" lon="67.010284000">
+    <ele>1713.610</ele>
+    <time>2025-08-23T08:17:03Z</time>
+    <name>628</name>
+    <cmt>628</cmt>
+    <desc>628</desc>
+  </wpt>
+  <wpt lat="30.174675000" lon="67.010267000">
+    <ele>1713.510</ele>
+    <time>2025-08-23T08:17:11Z</time>
+    <name>629</name>
+    <cmt>629</cmt>
+    <desc>629</desc>
+  </wpt>
+  <wpt lat="30.174669678" lon="67.010258521">
+    <ele>1715.200</ele>
+    <time>2025-08-23T08:19:40Z</time>
+    <name>630</name>
+    <cmt>630</cmt>
+    <desc>630</desc>
+  </wpt>
+  <wpt lat="30.174289000" lon="67.010057000">
+    <ele>1715.690</ele>
+    <time>2025-08-23T08:19:50Z</time>
+    <name>631</name>
+    <cmt>631</cmt>
+    <desc>631</desc>
+  </wpt>
+  <wpt lat="30.174285802" lon="67.010048090">
+    <ele>1715.060</ele>
+    <time>2025-08-23T08:21:59Z</time>
+    <name>632</name>
+    <cmt>632</cmt>
+    <desc>632</desc>
+  </wpt>
+  <wpt lat="30.174093000" lon="67.010354000">
+    <ele>1715.320</ele>
+    <time>2025-08-23T08:23:10Z</time>
+    <name>633</name>
+    <cmt>633</cmt>
+    <desc>633</desc>
+  </wpt>
+  <wpt lat="30.173939000" lon="67.010500000">
+    <ele>1716.010</ele>
+    <time>2025-08-23T08:23:43Z</time>
+    <name>634</name>
+    <cmt>634</cmt>
+    <desc>634</desc>
+  </wpt>
+  <wpt lat="30.174235000" lon="67.010522000">
+    <ele>1715.830</ele>
+    <time>2025-08-23T08:25:21Z</time>
+    <name>635</name>
+    <cmt>635</cmt>
+    <desc>635</desc>
+  </wpt>
+  <wpt lat="30.174213000" lon="67.010524000">
+    <ele>1716.110</ele>
+    <time>2025-08-23T08:25:29Z</time>
+    <name>636</name>
+    <cmt>636</cmt>
+    <desc>636</desc>
+  </wpt>
+  <wpt lat="30.173689000" lon="67.010806000">
+    <ele>1717.800</ele>
+    <time>2025-08-23T08:27:07Z</time>
+    <name>637</name>
+    <cmt>637</cmt>
+    <desc>637</desc>
+  </wpt>
+  <wpt lat="30.173712000" lon="67.010795000">
+    <ele>1718.120</ele>
+    <time>2025-08-23T08:27:14Z</time>
+    <name>638</name>
+    <cmt>638</cmt>
+    <desc>638</desc>
+  </wpt>
+  <wpt lat="30.173926000" lon="67.011217000">
+    <ele>1719.810</ele>
+    <time>2025-08-23T08:32:45Z</time>
+    <name>639</name>
+    <cmt>639</cmt>
+    <desc>639</desc>
+  </wpt>
+  <wpt lat="30.174212000" lon="67.011581000">
+    <ele>1720.050</ele>
+    <time>2025-08-23T08:33:05Z</time>
+    <name>640</name>
+    <cmt>640</cmt>
+    <desc>640</desc>
+  </wpt>
+  <wpt lat="30.174220000" lon="67.011617000">
+    <ele>1720.060</ele>
+    <time>2025-08-23T08:33:11Z</time>
+    <name>641</name>
+    <cmt>641</cmt>
+    <desc>641</desc>
+  </wpt>
+  <wpt lat="30.174417000" lon="67.011978000">
+    <ele>1720.770</ele>
+    <time>2025-08-23T08:35:27Z</time>
+    <name>642</name>
+    <cmt>642</cmt>
+    <desc>642</desc>
+  </wpt>
+  <wpt lat="30.174399000" lon="67.011959000">
+    <ele>1720.770</ele>
+    <time>2025-08-23T08:35:33Z</time>
+    <name>643</name>
+    <cmt>643</cmt>
+    <desc>643</desc>
+  </wpt>
+  <wpt lat="30.173716000" lon="67.010847000">
+    <ele>1719.860</ele>
+    <time>2025-08-23T08:37:31Z</time>
+    <name>644</name>
+    <cmt>644</cmt>
+    <desc>644</desc>
+  </wpt>
+  <wpt lat="30.173712000" lon="67.010849000">
+    <ele>1719.900</ele>
+    <time>2025-08-23T08:37:37Z</time>
+    <name>645</name>
+    <cmt>645</cmt>
+    <desc>645</desc>
+  </wpt>
+  <wpt lat="30.173481000" lon="67.011057000">
+    <ele>1720.950</ele>
+    <time>2025-08-23T08:39:05Z</time>
+    <name>646</name>
+    <cmt>646</cmt>
+    <desc>646</desc>
+  </wpt>
+  <wpt lat="30.173492000" lon="67.011096000">
+    <ele>1720.660</ele>
+    <time>2025-08-23T08:39:16Z</time>
+    <name>647</name>
+    <cmt>647</cmt>
+    <desc>647</desc>
+  </wpt>
+  <wpt lat="30.176113000" lon="67.007897000">
+    <ele>1712.770</ele>
+    <time>2025-08-23T08:42:30Z</time>
+    <name>648</name>
+    <cmt>648</cmt>
+    <desc>648</desc>
+  </wpt>
+  <wpt lat="30.176443000" lon="67.008156000">
+    <ele>1713.970</ele>
+    <time>2025-08-23T08:44:47Z</time>
+    <name>649</name>
+    <cmt>649</cmt>
+    <desc>649</desc>
+  </wpt>
+</gpx>

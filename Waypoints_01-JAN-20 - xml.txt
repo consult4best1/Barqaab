@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx
+    xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+    xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1"
+    xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="GPSMAP 64s" version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackStatsExtension/v1 http://www8.garmin.com/xmlschemas/TrackStatsExtension.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+    <metadata>
+        <link href="http://www.garmin.com">
+            <text>Garmin International</text>
+        </link>
+        <time>2020-01-01T04:15:24Z</time>
+    </metadata>
+    <wpt lat="30.816861" lon="68.067283">
+        <ele>1559.958130</ele>
+        <time>2020-01-01T04:15:24Z</time>
+        <name>001</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.816989" lon="68.067131">
+        <ele>1561.135132</ele>
+        <time>2020-01-01T04:16:17Z</time>
+        <name>002</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.817839" lon="68.067123">
+        <ele>1576.126465</ele>
+        <time>2020-01-01T04:24:30Z</time>
+        <name>003</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.817704" lon="68.067300">
+        <ele>1578.195557</ele>
+        <time>2020-01-01T04:25:33Z</time>
+        <name>004</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.817568" lon="68.068220">
+        <ele>1579.476929</ele>
+        <time>2020-01-01T04:27:17Z</time>
+        <name>005</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.817593" lon="68.069067">
+        <ele>1587.178467</ele>
+        <time>2020-01-01T04:34:59Z</time>
+        <name>006</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.817623" lon="68.069860">
+        <ele>1587.975464</ele>
+        <time>2020-01-01T04:36:26Z</time>
+        <name>007</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.817654" lon="68.070728">
+        <ele>1588.680054</ele>
+        <time>2020-01-01T04:38:23Z</time>
+        <name>008</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.817671" lon="68.070732">
+        <ele>1588.739380</ele>
+        <time>2020-01-01T04:38:28Z</time>
+        <name>009</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.817748" lon="68.071589">
+        <ele>1595.963989</ele>
+        <time>2020-01-01T04:46:39Z</time>
+        <name>010</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.817973" lon="68.072379">
+        <ele>1601.235962</ele>
+        <time>2020-01-01T04:52:01Z</time>
+        <name>011</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.817980" lon="68.072391">
+        <ele>1601.279785</ele>
+        <time>2020-01-01T04:52:06Z</time>
+        <name>012</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.816871" lon="68.071609">
+        <ele>1603.048950</ele>
+        <time>2020-01-01T04:54:12Z</time>
+        <name>013</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.816004" lon="68.071622">
+        <ele>1606.209229</ele>
+        <time>2020-01-01T04:58:11Z</time>
+        <name>014</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.815633" lon="68.071591">
+        <ele>1607.783691</ele>
+        <time>2020-01-01T04:58:59Z</time>
+        <name>015</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.818919" lon="68.071431">
+        <ele>1609.804443</ele>
+        <time>2020-01-01T05:06:11Z</time>
+        <name>016</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.819713" lon="68.071469">
+        <ele>1612.144443</ele>
+        <time>2020-01-01T05:08:18Z</time>
+        <name>017</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.819712" lon="68.071448">
+        <ele>1613.103456</ele>
+        <time>2020-01-01T05:08:22Z</time>
+        <name>018</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.820746" lon="68.071372">
+        <ele>1613.160278</ele>
+        <time>2020-01-01T05:14:08Z</time>
+        <name>019</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.821617" lon="68.071369">
+        <ele>1614.329834</ele>
+        <time>2020-01-01T05:16:03Z</time>
+        <name>020</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.822542" lon="68.071107">
+        <ele>1617.632080</ele>
+        <time>2020-01-01T05:23:53Z</time>
+        <name>021</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.822874" lon="68.071738">
+        <ele>1617.360229</ele>
+        <time>2020-01-01T05:25:23Z</time>
+        <name>022</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.822867" lon="68.071752">
+        <ele>1617.417969</ele>
+        <time>2020-01-01T05:25:28Z</time>
+        <name>023</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.823543" lon="68.071080">
+        <ele>1618.351440</ele>
+        <time>2020-01-01T05:27:47Z</time>
+        <name>024</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.823546" lon="68.070264">
+        <ele>1618.651001</ele>
+        <time>2020-01-01T05:29:17Z</time>
+        <name>025</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.823461" lon="68.069721">
+        <ele>1619.249268</ele>
+        <time>2020-01-01T05:30:46Z</time>
+        <name>026</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.823465" lon="68.069716">
+        <ele>1618.508789</ele>
+        <time>2020-01-01T05:30:51Z</time>
+        <name>027</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.823919" lon="68.069948">
+        <ele>1620.806641</ele>
+        <time>2020-01-01T05:39:19Z</time>
+        <name>028</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.823920" lon="68.069925">
+        <ele>1620.825928</ele>
+        <time>2020-01-01T05:39:23Z</time>
+        <name>029</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.824586" lon="68.071074">
+        <ele>1621.026367</ele>
+        <time>2020-01-01T05:43:43Z</time>
+        <name>030</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.825494" lon="68.071035">
+        <ele>1621.399292</ele>
+        <time>2020-01-01T05:45:50Z</time>
+        <name>031</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.825503" lon="68.071049">
+        <ele>1621.422852</ele>
+        <time>2020-01-01T05:45:54Z</time>
+        <name>032</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.826621" lon="68.071022">
+        <ele>1623.320190</ele>
+        <time>2020-01-01T05:54:49Z</time>
+        <name>033</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.827471" lon="68.071002">
+        <ele>1623.905396</ele>
+        <time>2020-01-01T05:56:59Z</time>
+        <name>034</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.827548" lon="68.070375">
+        <ele>1623.696045</ele>
+        <time>2020-01-01T05:58:10Z</time>
+        <name>035</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.827486" lon="68.069856">
+        <ele>1623.630615</ele>
+        <time>2020-01-01T05:59:59Z</time>
+        <name>036</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.827497" lon="68.069826">
+        <ele>1624.104126</ele>
+        <time>2020-01-01T06:00:06Z</time>
+        <name>037</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.828346" lon="68.070954">
+        <ele>1624.512207</ele>
+        <time>2020-01-01T06:14:09Z</time>
+        <name>038</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.829018" lon="68.070917">
+        <ele>1624.807983</ele>
+        <time>2020-01-01T06:16:24Z</time>
+        <name>039</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.828521" lon="68.071885">
+        <ele>1625.415283</ele>
+        <time>2020-01-01T06:21:24Z</time>
+        <name>040</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.828050" lon="68.072890">
+        <ele>1624.719360</ele>
+        <time>2020-01-01T06:22:33Z</time>
+        <name>041</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.827595" lon="68.073931">
+        <ele>1624.647217</ele>
+        <time>2020-01-01T06:24:39Z</time>
+        <name>042</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.827087" lon="68.075029">
+        <ele>1624.091797</ele>
+        <time>2020-01-01T06:26:26Z</time>
+        <name>043</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.827508" lon="68.075158">
+        <ele>1623.974243</ele>
+        <time>2020-01-01T06:28:33Z</time>
+        <name>044</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.827521" lon="68.075168">
+        <ele>1623.965576</ele>
+        <time>2020-01-01T06:28:36Z</time>
+        <name>045</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.827485" lon="68.075525">
+        <ele>1624.612305</ele>
+        <time>2020-01-01T06:29:30Z</time>
+        <name>046</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.827476" lon="68.075542">
+        <ele>1624.631958</ele>
+        <time>2020-01-01T06:29:33Z</time>
+        <name>047</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.828337" lon="68.075508">
+        <ele>1625.475342</ele>
+        <time>2020-01-01T06:41:33Z</time>
+        <name>048</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.828959" lon="68.075857">
+        <ele>1625.732544</ele>
+        <time>2020-01-01T06:43:18Z</time>
+        <name>049</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.829073" lon="68.075413">
+        <ele>1625.229004</ele>
+        <time>2020-01-01T06:45:01Z</time>
+        <name>050</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.829621" lon="68.074675">
+        <ele>1626.083008</ele>
+        <time>2020-01-01T06:46:31Z</time>
+        <name>051</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.829604" lon="68.074687">
+        <ele>1626.049805</ele>
+        <time>2020-01-01T06:46:34Z</time>
+        <name>052</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.829668" lon="68.076199">
+        <ele>1626.002686</ele>
+        <time>2020-01-01T06:54:12Z</time>
+        <name>053</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.829944" lon="68.075975">
+        <ele>1624.944702</ele>
+        <time>2020-01-01T06:55:07Z</time>
+        <name>054</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.830167" lon="68.075496">
+        <ele>1625.420410</ele>
+        <time>2020-01-01T06:55:57Z</time>
+        <name>055</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.830174" lon="68.075481">
+        <ele>1625.369507</ele>
+        <time>2020-01-01T06:55:59Z</time>
+        <name>056</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.830354" lon="68.076425">
+        <ele>1623.399902</ele>
+        <time>2020-01-01T07:16:39Z</time>
+        <name>057</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.831066" lon="68.076701">
+        <ele>1622.965332</ele>
+        <time>2020-01-01T07:18:39Z</time>
+        <name>058</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.831957" lon="68.076617">
+        <ele>1623.675537</ele>
+        <time>2020-01-01T07:25:53Z</time>
+        <name>059</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.832426" lon="68.076903">
+        <ele>1623.543701</ele>
+        <time>2020-01-01T07:26:42Z</time>
+        <name>060</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.832433" lon="68.076909">
+        <ele>1623.533203</ele>
+        <time>2020-01-01T07:26:44Z</time>
+        <name>061</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.832445" lon="68.076922">
+        <ele>1623.513550</ele>
+        <time>2020-01-01T07:26:48Z</time>
+        <name>062</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.833405" lon="68.077527">
+        <ele>1623.267822</ele>
+        <time>2020-01-01T07:29:07Z</time>
+        <name>063</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.833396" lon="68.077543">
+        <ele>1623.255981</ele>
+        <time>2020-01-01T07:29:12Z</time>
+        <name>064</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.833269" lon="68.077682">
+        <ele>1621.897339</ele>
+        <time>2020-01-01T07:29:35Z</time>
+        <name>065</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.833265" lon="68.077699">
+        <ele>1621.898438</ele>
+        <time>2020-01-01T07:29:37Z</time>
+        <name>066</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.833274" lon="68.077719">
+        <ele>1621.889893</ele>
+        <time>2020-01-01T07:29:41Z</time>
+        <name>067</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.833491" lon="68.077889">
+        <ele>1621.456665</ele>
+        <time>2020-01-01T07:30:15Z</time>
+        <name>068</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.833496" lon="68.077906">
+        <ele>1621.448120</ele>
+        <time>2020-01-01T07:30:19Z</time>
+        <name>069</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.833508" lon="68.077917">
+        <ele>1621.438843</ele>
+        <time>2020-01-01T07:30:22Z</time>
+        <name>070</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.833678" lon="68.077735">
+        <ele>1622.675049</ele>
+        <time>2020-01-01T07:30:59Z</time>
+        <name>071</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.833695" lon="68.077742">
+        <ele>1622.656250</ele>
+        <time>2020-01-01T07:31:03Z</time>
+        <name>072</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.833557" lon="68.076419">
+        <ele>1624.155151</ele>
+        <time>2020-01-01T07:50:29Z</time>
+        <name>073</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.833806" lon="68.075925">
+        <ele>1624.352417</ele>
+        <time>2020-01-01T07:51:25Z</time>
+        <name>074</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.833792" lon="68.075901">
+        <ele>1624.340454</ele>
+        <time>2020-01-01T07:51:31Z</time>
+        <name>075</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.834030" lon="68.076232">
+        <ele>1624.368286</ele>
+        <time>2020-01-01T07:52:17Z</time>
+        <name>076</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.834433" lon="68.076440">
+        <ele>1625.351685</ele>
+        <time>2020-01-01T07:53:01Z</time>
+        <name>077</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.834762" lon="68.076654">
+        <ele>1623.830444</ele>
+        <time>2020-01-01T07:53:36Z</time>
+        <name>078</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.834782" lon="68.076664">
+        <ele>1623.824341</ele>
+        <time>2020-01-01T07:53:39Z</time>
+        <name>079</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.826656" lon="68.076003">
+        <ele>1625.150757</ele>
+        <time>2020-01-01T08:18:04Z</time>
+        <name>080</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.826752" lon="68.075886">
+        <ele>1625.190674</ele>
+        <time>2020-01-01T08:18:44Z</time>
+        <name>081</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.826770" lon="68.075871">
+        <ele>1625.176147</ele>
+        <time>2020-01-01T08:18:48Z</time>
+        <name>082</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.826139" lon="68.077037">
+        <ele>1624.676392</ele>
+        <time>2020-01-01T08:24:07Z</time>
+        <name>083</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.825668" lon="68.078100">
+        <ele>1624.552856</ele>
+        <time>2020-01-01T08:25:30Z</time>
+        <name>084</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.825820" lon="68.078186">
+        <ele>1624.700806</ele>
+        <time>2020-01-01T08:25:54Z</time>
+        <name>085</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.825843" lon="68.078199">
+        <ele>1624.685547</ele>
+        <time>2020-01-01T08:25:59Z</time>
+        <name>086</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.825236" lon="68.078998">
+        <ele>1624.158447</ele>
+        <time>2020-01-01T08:30:46Z</time>
+        <name>087</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.824705" lon="68.080148">
+        <ele>1624.207642</ele>
+        <time>2020-01-01T08:35:49Z</time>
+        <name>088</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.824339" lon="68.081032">
+        <ele>1623.839844</ele>
+        <time>2020-01-01T08:39:31Z</time>
+        <name>089</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.824364" lon="68.080787">
+        <ele>1623.398071</ele>
+        <time>2020-01-01T08:41:14Z</time>
+        <name>090</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.824364" lon="68.080779">
+        <ele>1623.425293</ele>
+        <time>2020-01-01T08:41:17Z</time>
+        <name>091</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.824367" lon="68.080772">
+        <ele>1623.419800</ele>
+        <time>2020-01-01T08:41:21Z</time>
+        <name>092</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+</gpx>

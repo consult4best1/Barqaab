@@ -1,0 +1,5 @@
+Data Form for HT (GIS Survey Barqaab - PPL - OMS Consortium)
+
+Substation  data	Code		Destination  data	
+Feeder	    data	Code		Sub Division data	
+Inspectior  data	Feeder Code
