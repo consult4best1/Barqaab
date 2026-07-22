@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx
+    xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+    xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1"
+    xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="GPSMAP 64s" version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackStatsExtension/v1 http://www8.garmin.com/xmlschemas/TrackStatsExtension.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+    <metadata>
+        <link href="http://www.garmin.com">
+            <text>Garmin International</text>
+        </link>
+        <time>2025-10-08T07:14:06Z</time>
+    </metadata>
+    <wpt lat="30.261437" lon="66.962320">
+        <ele>1610.357422</ele>
+        <time>2025-10-08T07:14:06Z</time>
+        <name>001</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.261529" lon="66.961999">
+        <ele>1608.986694</ele>
+        <time>2025-10-08T07:15:54Z</time>
+        <name>002</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.261750" lon="66.961743">
+        <ele>1607.495605</ele>
+        <time>2025-10-08T07:24:15Z</time>
+        <name>003</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.262054" lon="66.961447">
+        <ele>1607.417114</ele>
+        <time>2025-10-08T07:24:45Z</time>
+        <name>004</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.262266" lon="66.961101">
+        <ele>1606.483765</ele>
+        <time>2025-10-08T07:25:19Z</time>
+        <name>005</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.262468" lon="66.960700">
+        <ele>1607.252563</ele>
+        <time>2025-10-08T07:25:57Z</time>
+        <name>006</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.262649" lon="66.960203">
+        <ele>1603.856689</ele>
+        <time>2025-10-08T07:31:37Z</time>
+        <name>007</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.262287" lon="66.959749">
+        <ele>1606.482300</ele>
+        <time>2025-10-08T07:34:43Z</time>
+        <name>008</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.261934" lon="66.959166">
+        <ele>1606.712036</ele>
+        <time>2025-10-08T07:35:51Z</time>
+        <name>009</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.261466" lon="66.958926">
+        <ele>1607.014771</ele>
+        <time>2025-10-08T07:37:00Z</time>
+        <name>010</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.261783" lon="66.958247">
+        <ele>1607.006348</ele>
+        <time>2025-10-08T07:47:16Z</time>
+        <name>011</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.262098" lon="66.957519">
+        <ele>1606.830933</ele>
+        <time>2025-10-08T07:47:37Z</time>
+        <name>012</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.262386" lon="66.956784">
+        <ele>1605.797729</ele>
+        <time>2025-10-08T07:47:58Z</time>
+        <name>013</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.262608" lon="66.956257">
+        <ele>1605.966797</ele>
+        <time>2025-10-08T07:48:15Z</time>
+        <name>014</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.262746" lon="66.955875">
+        <ele>1605.652100</ele>
+        <time>2025-10-08T07:48:28Z</time>
+        <name>015</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.262967" lon="66.955357">
+        <ele>1605.607056</ele>
+        <time>2025-10-08T07:48:43Z</time>
+        <name>016</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.263172" lon="66.954658">
+        <ele>1605.134033</ele>
+        <time>2025-10-08T07:49:00Z</time>
+        <name>017</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.263458" lon="66.953914">
+        <ele>1604.739380</ele>
+        <time>2025-10-08T07:49:21Z</time>
+        <name>018</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.263705" lon="66.953247">
+        <ele>1605.466919</ele>
+        <time>2025-10-08T07:49:39Z</time>
+        <name>019</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.263984" lon="66.952478">
+        <ele>1604.733154</ele>
+        <time>2025-10-08T07:49:58Z</time>
+        <name>020</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.264283" lon="66.951598">
+        <ele>1605.032593</ele>
+        <time>2025-10-08T07:50:22Z</time>
+        <name>021</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.264284" lon="66.951006">
+        <ele>1604.070190</ele>
+        <time>2025-10-08T07:50:44Z</time>
+        <name>022</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.264301" lon="66.950707">
+        <ele>1603.573242</ele>
+        <time>2025-10-08T07:50:55Z</time>
+        <name>023</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.264347" lon="66.950333">
+        <ele>1602.951294</ele>
+        <time>2025-10-08T07:51:09Z</time>
+        <name>024</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.264594" lon="66.949793">
+        <ele>1602.961548</ele>
+        <time>2025-10-08T07:51:42Z</time>
+        <name>025</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.264769" lon="66.949215">
+        <ele>1602.255005</ele>
+        <time>2025-10-08T07:51:57Z</time>
+        <name>026</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.264930" lon="66.948749">
+        <ele>1602.128540</ele>
+        <time>2025-10-08T07:52:11Z</time>
+        <name>027</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.264975" lon="66.948626">
+        <ele>1601.650879</ele>
+        <time>2025-10-08T07:52:16Z</time>
+        <name>028</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.265179" lon="66.948027">
+        <ele>1602.019531</ele>
+        <time>2025-10-08T07:52:33Z</time>
+        <name>029</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.265401" lon="66.947390">
+        <ele>1600.184937</ele>
+        <time>2025-10-08T07:52:51Z</time>
+        <name>030</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.265630" lon="66.946777">
+        <ele>1598.936035</ele>
+        <time>2025-10-08T07:53:09Z</time>
+        <name>031</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.265856" lon="66.946121">
+        <ele>1597.957764</ele>
+        <time>2025-10-08T07:53:26Z</time>
+        <name>032</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.265979" lon="66.945627">
+        <ele>1597.605591</ele>
+        <time>2025-10-08T07:56:55Z</time>
+        <name>033</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.266178" lon="66.945101">
+        <ele>1596.551270</ele>
+        <time>2025-10-08T07:57:13Z</time>
+        <name>034</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.266742" lon="66.945324">
+        <ele>1597.457642</ele>
+        <time>2025-10-08T08:01:25Z</time>
+        <name>035</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.266522" lon="66.945851">
+        <ele>1598.317871</ele>
+        <time>2025-10-08T08:02:19Z</time>
+        <name>036</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.266534" lon="66.945846">
+        <ele>1598.272949</ele>
+        <time>2025-10-08T08:02:22Z</time>
+        <name>037</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.266385" lon="66.944494">
+        <ele>1596.725342</ele>
+        <time>2025-10-08T08:04:48Z</time>
+        <name>038</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.266410" lon="66.944492">
+        <ele>1595.989746</ele>
+        <time>2025-10-08T08:05:00Z</time>
+        <name>039</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.266606" lon="66.943979">
+        <ele>1595.666992</ele>
+        <time>2025-10-08T08:05:25Z</time>
+        <name>040</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.266959" lon="66.944104">
+        <ele>1595.314575</ele>
+        <time>2025-10-08T08:12:49Z</time>
+        <name>041</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.267272" lon="66.944157">
+        <ele>1594.919556</ele>
+        <time>2025-10-08T08:13:37Z</time>
+        <name>042</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.267415" lon="66.943907">
+        <ele>1595.810791</ele>
+        <time>2025-10-08T08:15:24Z</time>
+        <name>043</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.267406" lon="66.943904">
+        <ele>1595.922974</ele>
+        <time>2025-10-08T08:15:35Z</time>
+        <name>044</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.267370" lon="66.943859">
+        <ele>1595.753296</ele>
+        <time>2025-10-08T08:22:19Z</time>
+        <name>045</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.266798" lon="66.943418">
+        <ele>1596.956421</ele>
+        <time>2025-10-08T08:30:23Z</time>
+        <name>046</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.267033" lon="66.942898">
+        <ele>1596.656128</ele>
+        <time>2025-10-08T08:33:27Z</time>
+        <name>047</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.267238" lon="66.942339">
+        <ele>1596.077393</ele>
+        <time>2025-10-08T08:33:42Z</time>
+        <name>048</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.267310" lon="66.942314">
+        <ele>1596.386108</ele>
+        <time>2025-10-08T08:33:55Z</time>
+        <name>049</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.267326" lon="66.942289">
+        <ele>1596.382202</ele>
+        <time>2025-10-08T08:34:01Z</time>
+        <name>050</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.267447" lon="66.941728">
+        <ele>1596.147949</ele>
+        <time>2025-10-08T08:34:36Z</time>
+        <name>051</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.267633" lon="66.941231">
+        <ele>1595.803955</ele>
+        <time>2025-10-08T08:34:49Z</time>
+        <name>052</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.267693" lon="66.941229">
+        <ele>1596.257446</ele>
+        <time>2025-10-08T08:35:03Z</time>
+        <name>053</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.267707" lon="66.941223">
+        <ele>1596.245850</ele>
+        <time>2025-10-08T08:35:07Z</time>
+        <name>054</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.267716" lon="66.941205">
+        <ele>1596.232666</ele>
+        <time>2025-10-08T08:35:12Z</time>
+        <name>055</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.267824" lon="66.940681">
+        <ele>1595.952026</ele>
+        <time>2025-10-08T08:38:02Z</time>
+        <name>056</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.268007" lon="66.940137">
+        <ele>1595.711060</ele>
+        <time>2025-10-08T08:38:25Z</time>
+        <name>057</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.268172" lon="66.939633">
+        <ele>1595.114380</ele>
+        <time>2025-10-08T08:38:55Z</time>
+        <name>058</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.268591" lon="66.939782">
+        <ele>1595.215088</ele>
+        <time>2025-10-08T08:39:27Z</time>
+        <name>059</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.268601" lon="66.939764">
+        <ele>1595.190063</ele>
+        <time>2025-10-08T08:39:31Z</time>
+        <name>060</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.268945" lon="66.939942">
+        <ele>1594.198242</ele>
+        <time>2025-10-08T08:42:45Z</time>
+        <name>061</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269215" lon="66.940042">
+        <ele>1594.318237</ele>
+        <time>2025-10-08T08:43:13Z</time>
+        <name>062</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269212" lon="66.940045">
+        <ele>1594.305420</ele>
+        <time>2025-10-08T08:43:15Z</time>
+        <name>063</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269416" lon="66.939584">
+        <ele>1593.534912</ele>
+        <time>2025-10-08T08:55:27Z</time>
+        <name>064</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269469" lon="66.939254">
+        <ele>1593.405884</ele>
+        <time>2025-10-08T08:56:14Z</time>
+        <name>065</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269633" lon="66.938821">
+        <ele>1592.674805</ele>
+        <time>2025-10-08T08:56:55Z</time>
+        <name>066</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269754" lon="66.938365">
+        <ele>1592.375610</ele>
+        <time>2025-10-08T08:57:12Z</time>
+        <name>067</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.270009" lon="66.937944">
+        <ele>1591.811035</ele>
+        <time>2025-10-08T08:57:27Z</time>
+        <name>068</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.270064" lon="66.937632">
+        <ele>1591.160889</ele>
+        <time>2025-10-08T08:57:40Z</time>
+        <name>069</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.270160" lon="66.937147">
+        <ele>1590.496582</ele>
+        <time>2025-10-08T08:58:05Z</time>
+        <name>070</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.270472" lon="66.936882">
+        <ele>1589.931274</ele>
+        <time>2025-10-08T08:58:40Z</time>
+        <name>071</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.270739" lon="66.937048">
+        <ele>1590.084961</ele>
+        <time>2025-10-08T08:59:10Z</time>
+        <name>072</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.270726" lon="66.937054">
+        <ele>1590.036499</ele>
+        <time>2025-10-08T08:59:14Z</time>
+        <name>073</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.271037" lon="66.937258">
+        <ele>1589.572876</ele>
+        <time>2025-10-08T08:59:44Z</time>
+        <name>074</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.270931" lon="66.937429">
+        <ele>1589.860229</ele>
+        <time>2025-10-08T09:00:07Z</time>
+        <name>075</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269606" lon="66.940204">
+        <ele>1591.262695</ele>
+        <time>2025-10-08T09:05:29Z</time>
+        <name>076</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.270067" lon="66.940379">
+        <ele>1590.704468</ele>
+        <time>2025-10-08T09:06:48Z</time>
+        <name>077</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269936" lon="66.940735">
+        <ele>1590.493774</ele>
+        <time>2025-10-08T09:08:40Z</time>
+        <name>078</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.270297" lon="66.940925">
+        <ele>1589.663574</ele>
+        <time>2025-10-08T09:09:34Z</time>
+        <name>079</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.270673" lon="66.941117">
+        <ele>1589.379272</ele>
+        <time>2025-10-08T09:10:57Z</time>
+        <name>080</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.270681" lon="66.941140">
+        <ele>1589.345581</ele>
+        <time>2025-10-08T09:11:02Z</time>
+        <name>081</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.270699" lon="66.941145">
+        <ele>1589.306519</ele>
+        <time>2025-10-08T09:11:07Z</time>
+        <name>082</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269809" lon="66.941037">
+        <ele>1588.945557</ele>
+        <time>2025-10-08T09:14:45Z</time>
+        <name>083</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269749" lon="66.941418">
+        <ele>1589.205566</ele>
+        <time>2025-10-08T09:14:57Z</time>
+        <name>084</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269575" lon="66.941922">
+        <ele>1589.273438</ele>
+        <time>2025-10-08T09:15:12Z</time>
+        <name>085</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269503" lon="66.942235">
+        <ele>1589.817627</ele>
+        <time>2025-10-08T09:15:22Z</time>
+        <name>086</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269398" lon="66.942559">
+        <ele>1589.305542</ele>
+        <time>2025-10-08T09:15:33Z</time>
+        <name>087</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269282" lon="66.942883">
+        <ele>1589.546631</ele>
+        <time>2025-10-08T09:15:44Z</time>
+        <name>088</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269156" lon="66.943326">
+        <ele>1589.669556</ele>
+        <time>2025-10-08T09:16:37Z</time>
+        <name>089</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269266" lon="66.943298">
+        <ele>1594.455444</ele>
+        <time>2025-10-08T09:29:30Z</time>
+        <name>090</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269261" lon="66.943316">
+        <ele>1594.355103</ele>
+        <time>2025-10-08T09:29:39Z</time>
+        <name>091</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="30.269263" lon="66.943434">
+        <ele>1598.679932</ele>
+        <time>2025-10-08T10:36:36Z</time>
+        <name>092</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+</gpx>
