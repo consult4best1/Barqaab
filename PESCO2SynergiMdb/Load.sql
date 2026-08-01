@@ -8,13 +8,21 @@ WITH result AS (
 
 (cast((rs_con3 + LC_Con + SI_Con + LI_Con + PB_Con + AG_Con + ST_Con) as int)/3
 + case when RS_Con1 + SC_Con >=1 then RS_Con1 + SC_Con else 0 end ) Phase3Customers,
-   RS_Con3 * 3 + LC_Con * 3 + SI_Con * 3 + LI_Con * 3 + PB_Con * 3 + AG_Con * 3 + ST_Con * 3
+
+   RS_Con3 * 3 + LC_Con * 3 + LI_Con * 3 + SI_Con * 3  + PB_Con * 3 + AG_Con * 3 + ST_Con * 3
    + case REPLACE(Pole_Phase, '-', '') when 'R' then rs_con1 else 0 end
    + case REPLACE(Pole_Phase, '-', '') when 'R' then SC_Con else 0 end
-   as phase1kva
+   as phase1kva,
    
-   ,0 as phase2kva 
-   ,0 as phase3kva 
+   RS_Con3 * 3 + LC_Con * 3 + LI_Con * 3 + SI_Con * 3  + PB_Con * 3 + AG_Con * 3 + ST_Con * 3
+   + case REPLACE(Pole_Phase, '-', '') when 'Y' then rs_con1 else 0 end
+   + case REPLACE(Pole_Phase, '-', '') when 'Y' then SC_Con else 0 end
+   as phase2kva
+
+   ,RS_Con3 * 3 + LC_Con * 3 + LI_Con * 3 + SI_Con * 3  + PB_Con * 3 + AG_Con * 3 + ST_Con * 3
+   + case REPLACE(Pole_Phase, '-', '') when 'B' then rs_con1 else 0 end
+   + case REPLACE(Pole_Phase, '-', '') when 'B' then SC_Con else 0 end
+   as phase3kva 
    ,*
     FROM disco_abdara.dbo.field_data
 )
