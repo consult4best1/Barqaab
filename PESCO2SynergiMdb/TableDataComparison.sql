@@ -11,6 +11,17 @@ except
 select NodeId from abdara.dbo.Node  -- 398 records
 
 
+select * from DISCO_Abdara.dbo.Field_Data 
+where Section_ID in ('05141417160920080','05141417160920080',
+'05141417280920354','05141417280920354')
+
+
+select * from abdara.dbo.Gnodes 
+where sectionid not in(select sectionid from barqaab.dbo.Gnodes)
+
+select * from barqaab.dbo.Gnodes 
+where sectionid not in(select sectionid from abdara.dbo.Gnodes)
+
 select * from abdara.dbo.Gnodes
 except
 select * from barqaab.dbo.Gnodes
