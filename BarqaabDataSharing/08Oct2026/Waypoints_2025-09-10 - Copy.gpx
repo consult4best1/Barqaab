@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx
+	xmlns="http://www.topografix.com/GPX/1/1"
+	xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+	xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1"
+	xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="GPSMAP 78s SEA" version="1.1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+	<metadata>
+		<link href="http://www.garmin.com">
+			<text>Garmin International</text>
+		</link>
+		<time>2025-09-10T09:04:33Z</time>
+	</metadata>
+	<wpt lat="29.918539" lon="71.162209">
+		<ele>154.685181</ele>
+		<time>2025-09-10T09:04:33Z</time>
+		<name>231</name>
+		<cmt>2025-09-10 2:04:33PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918522" lon="71.162216">
+		<ele>154.640274</ele>
+		<time>2025-09-10T09:04:36Z</time>
+		<name>232</name>
+		<cmt>2025-09-10 2:04:36PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918588" lon="71.162273">
+		<ele>153.582001</ele>
+		<time>2025-09-10T09:05:33Z</time>
+		<name>233</name>
+		<cmt>2025-09-10 2:05:33PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918535" lon="71.162339">
+		<ele>151.622375</ele>
+		<time>2025-09-10T09:07:27Z</time>
+		<name>234</name>
+		<cmt>2025-09-10 2:07:27PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918521" lon="71.162468">
+		<ele>151.304413</ele>
+		<time>2025-09-10T09:07:41Z</time>
+		<name>235</name>
+		<cmt>2025-09-10 2:07:41PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918506" lon="71.162733">
+		<ele>150.989822</ele>
+		<time>2025-09-10T09:07:55Z</time>
+		<name>236</name>
+		<cmt>2025-09-10 2:07:55PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918490" lon="71.162881">
+		<ele>151.663330</ele>
+		<time>2025-09-10T09:08:05Z</time>
+		<name>237</name>
+		<cmt>2025-09-10 2:08:05PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918469" lon="71.163100">
+		<ele>151.135513</ele>
+		<time>2025-09-10T09:08:18Z</time>
+		<name>238</name>
+		<cmt>2025-09-10 2:08:18PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.919054" lon="71.162261">
+		<ele>146.942841</ele>
+		<time>2025-09-10T09:10:10Z</time>
+		<name>239</name>
+		<cmt>2025-09-10 2:10:10PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.919726" lon="71.162388">
+		<ele>149.238586</ele>
+		<time>2025-09-10T09:10:35Z</time>
+		<name>240</name>
+		<cmt>2025-09-10 2:10:35PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.920053" lon="71.162459">
+		<ele>147.921875</ele>
+		<time>2025-09-10T09:11:31Z</time>
+		<name>241</name>
+		<cmt>2025-09-10 2:11:31PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.920496" lon="71.162552">
+		<ele>149.366730</ele>
+		<time>2025-09-10T09:12:04Z</time>
+		<name>242</name>
+		<cmt>2025-09-10 2:12:04PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918173" lon="71.162152">
+		<ele>148.024200</ele>
+		<time>2025-09-10T09:13:47Z</time>
+		<name>243</name>
+		<cmt>2025-09-10 2:13:47PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.917881" lon="71.162121">
+		<ele>146.954849</ele>
+		<time>2025-09-10T09:14:35Z</time>
+		<name>244</name>
+		<cmt>2025-09-10 2:14:35PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.917673" lon="71.162102">
+		<ele>146.999573</ele>
+		<time>2025-09-10T09:14:53Z</time>
+		<name>245</name>
+		<cmt>2025-09-10 2:14:53PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.916837" lon="71.162001">
+		<ele>146.625824</ele>
+		<time>2025-09-10T09:15:34Z</time>
+		<name>246</name>
+		<cmt>2025-09-10 2:15:34PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.916739" lon="71.162047">
+		<ele>145.470551</ele>
+		<time>2025-09-10T09:15:52Z</time>
+		<name>247</name>
+		<cmt>2025-09-10 2:15:52PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.916287" lon="71.162033">
+		<ele>146.991241</ele>
+		<time>2025-09-10T09:16:20Z</time>
+		<name>248</name>
+		<cmt>2025-09-10 2:16:20PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918508" lon="71.163149">
+		<ele>141.748245</ele>
+		<time>2025-09-10T09:23:18Z</time>
+		<name>249</name>
+		<cmt>2025-09-10 2:23:18PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918472" lon="71.163158">
+		<ele>141.764954</ele>
+		<time>2025-09-10T09:23:23Z</time>
+		<name>250</name>
+		<cmt>2025-09-10 2:23:23PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918506" lon="71.163180">
+		<ele>139.716675</ele>
+		<time>2025-09-10T09:26:27Z</time>
+		<name>251</name>
+		<cmt>2025-09-10 2:26:27PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918324" lon="71.163656">
+		<ele>139.193359</ele>
+		<time>2025-09-10T09:27:16Z</time>
+		<name>252</name>
+		<cmt>2025-09-10 2:27:16PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918561" lon="71.163947">
+		<ele>137.201721</ele>
+		<time>2025-09-10T09:27:34Z</time>
+		<name>253</name>
+		<cmt>2025-09-10 2:27:34PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918559" lon="71.164254">
+		<ele>137.520248</ele>
+		<time>2025-09-10T09:27:53Z</time>
+		<name>254</name>
+		<cmt>2025-09-10 2:27:53PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918170" lon="71.164255">
+		<ele>138.903915</ele>
+		<time>2025-09-10T09:28:15Z</time>
+		<name>255</name>
+		<cmt>2025-09-10 2:28:15PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9176457617" lon="71.1642643064">
+		<ele>138.126099</ele>
+		<time>2025-09-10T09:28:34Z</time>
+		<name>256</name>
+		<cmt>2025-09-10 2:28:25PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918799" lon="71.164219">
+		<ele>137.038101</ele>
+		<time>2025-09-10T09:29:30Z</time>
+		<name>257</name>
+		<cmt>2025-09-10 2:29:30PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.919020" lon="71.164451">
+		<ele>136.754166</ele>
+		<time>2025-09-10T09:29:45Z</time>
+		<name>258</name>
+		<cmt>2025-09-10 2:29:45PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.919275" lon="71.164752">
+		<ele>136.393616</ele>
+		<time>2025-09-10T09:30:02Z</time>
+		<name>259</name>
+		<cmt>2025-09-10 2:30:02PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.919483" lon="71.165085">
+		<ele>137.090103</ele>
+		<time>2025-09-10T09:30:19Z</time>
+		<name>260</name>
+		<cmt>2025-09-10 2:30:19PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.919475" lon="71.165251">
+		<ele>138.292404</ele>
+		<time>2025-09-10T09:30:31Z</time>
+		<name>261</name>
+		<cmt>2025-09-10 2:30:31PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.919800" lon="71.165532">
+		<ele>136.494553</ele>
+		<time>2025-09-10T09:32:13Z</time>
+		<name>262</name>
+		<cmt>2025-09-10 2:32:13PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.920322" lon="71.165710">
+		<ele>135.099457</ele>
+		<time>2025-09-10T09:33:05Z</time>
+		<name>263</name>
+		<cmt>2025-09-10 2:33:05PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.920848" lon="71.165843">
+		<ele>135.049759</ele>
+		<time>2025-09-10T09:33:56Z</time>
+		<name>264</name>
+		<cmt>2025-09-10 2:33:56PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.921396" lon="71.166075">
+		<ele>134.964630</ele>
+		<time>2025-09-10T09:34:48Z</time>
+		<name>265</name>
+		<cmt>2025-09-10 2:34:48PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.917884" lon="71.163315">
+		<ele>135.894989</ele>
+		<time>2025-09-10T09:37:26Z</time>
+		<name>266</name>
+		<cmt>2025-09-10 2:37:26PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.917767" lon="71.163154">
+		<ele>136.725143</ele>
+		<time>2025-09-10T09:37:36Z</time>
+		<name>267</name>
+		<cmt>2025-09-10 2:37:36PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.917519" lon="71.162908">
+		<ele>136.239838</ele>
+		<time>2025-09-10T09:37:53Z</time>
+		<name>268</name>
+		<cmt>2025-09-10 2:37:53PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.917146" lon="71.162748">
+		<ele>135.502686</ele>
+		<time>2025-09-10T09:38:14Z</time>
+		<name>269</name>
+		<cmt>2025-09-10 2:38:14PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.916758" lon="71.162610">
+		<ele>136.661652</ele>
+		<time>2025-09-10T09:38:34Z</time>
+		<name>270</name>
+		<cmt>2025-09-10 2:38:34PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.919129" lon="71.163445">
+		<ele>135.314056</ele>
+		<time>2025-09-10T09:41:59Z</time>
+		<name>271</name>
+		<cmt>2025-09-10 2:41:59PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.910792" lon="71.158468">
+		<ele>132.979568</ele>
+		<time>2025-09-10T09:47:28Z</time>
+		<name>272</name>
+		<cmt>2025-09-10 2:47:28PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.910780" lon="71.158457">
+		<ele>132.929520</ele>
+		<time>2025-09-10T09:47:32Z</time>
+		<name>273</name>
+		<cmt>2025-09-10 2:47:32PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.910402" lon="71.158034">
+		<ele>129.756409</ele>
+		<time>2025-09-10T09:50:54Z</time>
+		<name>274</name>
+		<cmt>2025-09-10 2:50:54PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.910654" lon="71.157314">
+		<ele>131.839142</ele>
+		<time>2025-09-10T09:51:30Z</time>
+		<name>275</name>
+		<cmt>2025-09-10 2:51:30PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.910766" lon="71.156773">
+		<ele>132.069000</ele>
+		<time>2025-09-10T09:51:50Z</time>
+		<name>276</name>
+		<cmt>2025-09-10 2:51:50PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.911115" lon="71.159033">
+		<ele>129.432083</ele>
+		<time>2025-09-10T09:54:24Z</time>
+		<name>277</name>
+		<cmt>2025-09-10 2:54:24PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.911139" lon="71.158859">
+		<ele>127.696220</ele>
+		<time>2025-09-10T09:54:52Z</time>
+		<name>278</name>
+		<cmt>2025-09-10 2:54:52PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.911017" lon="71.159286">
+		<ele>129.256012</ele>
+		<time>2025-09-10T09:55:49Z</time>
+		<name>279</name>
+		<cmt>2025-09-10 2:55:49PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.910888" lon="71.159657">
+		<ele>129.432938</ele>
+		<time>2025-09-10T09:56:21Z</time>
+		<name>280</name>
+		<cmt>2025-09-10 2:56:21PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.911387" lon="71.159475">
+		<ele>129.519318</ele>
+		<time>2025-09-10T09:57:40Z</time>
+		<name>281</name>
+		<cmt>2025-09-10 2:57:40PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.913910" lon="71.169951">
+		<ele>127.379883</ele>
+		<time>2025-09-10T10:06:31Z</time>
+		<name>282</name>
+		<cmt>2025-09-10 3:06:31PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.913906" lon="71.169936">
+		<ele>127.372940</ele>
+		<time>2025-09-10T10:06:35Z</time>
+		<name>283</name>
+		<cmt>2025-09-10 3:06:35PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.913998" lon="71.169376">
+		<ele>125.655151</ele>
+		<time>2025-09-10T10:08:05Z</time>
+		<name>284</name>
+		<cmt>2025-09-10 3:08:05PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9136680458" lon="71.1698439717">
+		<ele>126.487625</ele>
+		<time>2025-09-10T10:14:09Z</time>
+		<name>285</name>
+		<cmt>2025-09-10 3:12:43PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.913738" lon="71.169400">
+		<ele>127.346832</ele>
+		<time>2025-09-10T10:13:31Z</time>
+		<name>286</name>
+		<cmt>2025-09-10 3:13:31PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.913982" lon="71.170096">
+		<ele>127.386215</ele>
+		<time>2025-09-10T10:14:57Z</time>
+		<name>287</name>
+		<cmt>2025-09-10 3:14:57PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.913943" lon="71.170849">
+		<ele>126.015663</ele>
+		<time>2025-09-10T10:15:20Z</time>
+		<name>288</name>
+		<cmt>2025-09-10 3:15:20PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.913594" lon="71.170814">
+		<ele>127.130989</ele>
+		<time>2025-09-10T10:15:45Z</time>
+		<name>289</name>
+		<cmt>2025-09-10 3:15:45PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.913127" lon="71.170780">
+		<ele>129.404465</ele>
+		<time>2025-09-10T10:16:04Z</time>
+		<name>290</name>
+		<cmt>2025-09-10 3:16:04PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.912521" lon="71.170677">
+		<ele>128.573471</ele>
+		<time>2025-09-10T10:16:28Z</time>
+		<name>291</name>
+		<cmt>2025-09-10 3:16:28PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9141712952" lon="71.1702411901">
+		<ele>127.284958</ele>
+		<time>2025-09-10T10:21:49Z</time>
+		<name>292</name>
+		<cmt>2025-09-10 3:21:34PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9144495744" lon="71.1703134421">
+		<ele>128.121414</ele>
+		<time>2025-09-10T10:22:09Z</time>
+		<name>293</name>
+		<cmt>2025-09-10 3:22:01PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914833" lon="71.170286">
+		<ele>128.118210</ele>
+		<time>2025-09-10T10:22:14Z</time>
+		<name>294</name>
+		<cmt>2025-09-10 3:22:14PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914860" lon="71.170576">
+		<ele>128.162598</ele>
+		<time>2025-09-10T10:24:22Z</time>
+		<name>295</name>
+		<cmt>2025-09-10 3:24:22PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.915500" lon="71.170841">
+		<ele>127.069557</ele>
+		<time>2025-09-10T10:25:01Z</time>
+		<name>296</name>
+		<cmt>2025-09-10 3:25:01PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.916582" lon="71.171006">
+		<ele>127.630257</ele>
+		<time>2025-09-10T10:25:53Z</time>
+		<name>297</name>
+		<cmt>2025-09-10 3:25:53PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.916590" lon="71.171261">
+		<ele>126.895447</ele>
+		<time>2025-09-10T10:26:16Z</time>
+		<name>298</name>
+		<cmt>2025-09-10 3:26:16PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.917126" lon="71.171262">
+		<ele>127.091492</ele>
+		<time>2025-09-10T10:27:18Z</time>
+		<name>299</name>
+		<cmt>2025-09-10 3:27:18PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.917598" lon="71.171270">
+		<ele>128.603546</ele>
+		<time>2025-09-10T10:27:40Z</time>
+		<name>300</name>
+		<cmt>2025-09-10 3:27:40PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914097" lon="71.176312">
+		<ele>128.459885</ele>
+		<time>2025-09-10T10:34:00Z</time>
+		<name>301</name>
+		<cmt>2025-09-10 3:34:00PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914161" lon="71.176751">
+		<ele>128.213120</ele>
+		<time>2025-09-10T10:35:43Z</time>
+		<name>302</name>
+		<cmt>2025-09-10 3:35:43PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914171" lon="71.177411">
+		<ele>128.311386</ele>
+		<time>2025-09-10T10:37:03Z</time>
+		<name>303</name>
+		<cmt>2025-09-10 3:37:03PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914159" lon="71.177808">
+		<ele>129.688202</ele>
+		<time>2025-09-10T10:37:42Z</time>
+		<name>304</name>
+		<cmt>2025-09-10 3:37:42PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914672" lon="71.176699">
+		<ele>128.504913</ele>
+		<time>2025-09-10T10:39:30Z</time>
+		<name>305</name>
+		<cmt>2025-09-10 3:39:30PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914804" lon="71.176970">
+		<ele>127.707100</ele>
+		<time>2025-09-10T10:39:50Z</time>
+		<name>306</name>
+		<cmt>2025-09-10 3:39:50PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914874" lon="71.177447">
+		<ele>127.433754</ele>
+		<time>2025-09-10T10:40:06Z</time>
+		<name>307</name>
+		<cmt>2025-09-10 3:40:06PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9146032985" lon="71.1762620788">
+		<ele>126.573204</ele>
+		<time>2025-09-10T10:42:47Z</time>
+		<name>308</name>
+		<cmt>2025-09-10 3:42:37PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.921068" lon="71.145844">
+		<ele>122.508682</ele>
+		<time>2025-09-10T11:07:25Z</time>
+		<name>309</name>
+		<cmt>2025-09-10 4:07:25PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.921062" lon="71.145784">
+		<ele>123.437195</ele>
+		<time>2025-09-10T11:07:46Z</time>
+		<name>310</name>
+		<cmt>2025-09-10 4:07:46PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.921050" lon="71.145166">
+		<ele>118.956970</ele>
+		<time>2025-09-10T11:09:21Z</time>
+		<name>311</name>
+		<cmt>2025-09-10 4:09:21PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.920918" lon="71.144424">
+		<ele>120.655342</ele>
+		<time>2025-09-10T11:11:02Z</time>
+		<name>312</name>
+		<cmt>2025-09-10 4:11:02PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.920395" lon="71.144459">
+		<ele>121.294937</ele>
+		<time>2025-09-10T11:12:32Z</time>
+		<name>313</name>
+		<cmt>2025-09-10 4:12:32PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.921056" lon="71.146146">
+		<ele>121.258072</ele>
+		<time>2025-09-10T11:16:23Z</time>
+		<name>314</name>
+		<cmt>2025-09-10 4:16:23PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.921046" lon="71.146690">
+		<ele>120.612488</ele>
+		<time>2025-09-10T11:16:35Z</time>
+		<name>315</name>
+		<cmt>2025-09-10 4:16:35PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.921544" lon="71.146794">
+		<ele>121.872498</ele>
+		<time>2025-09-10T11:17:16Z</time>
+		<name>316</name>
+		<cmt>2025-09-10 4:17:16PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.921864" lon="71.147140">
+		<ele>121.979500</ele>
+		<time>2025-09-10T11:18:14Z</time>
+		<name>317</name>
+		<cmt>2025-09-10 4:18:14PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.921054" lon="71.147323">
+		<ele>121.919891</ele>
+		<time>2025-09-10T11:20:02Z</time>
+		<name>318</name>
+		<cmt>2025-09-10 4:20:02PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9209758919" lon="71.1480428092">
+		<ele>119.648132</ele>
+		<time>2025-09-10T11:28:12Z</time>
+		<name>319</name>
+		<cmt>2025-09-10 4:27:53PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9208370876" lon="71.1488763895">
+		<ele>119.650757</ele>
+		<time>2025-09-10T11:28:39Z</time>
+		<name>320</name>
+		<cmt>2025-09-10 4:28:16PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9205570482" lon="71.1496852431">
+		<ele>121.759155</ele>
+		<time>2025-09-10T11:29:21Z</time>
+		<name>321</name>
+		<cmt>2025-09-10 4:29:06PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9202973768" lon="71.1493913736">
+		<ele>121.709625</ele>
+		<time>2025-09-10T11:29:39Z</time>
+		<name>322</name>
+		<cmt>2025-09-10 4:29:25PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9200695567" lon="71.1490861885">
+		<ele>121.637497</ele>
+		<time>2025-09-10T11:29:51Z</time>
+		<name>323</name>
+		<cmt>2025-09-10 4:29:43PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.917738" lon="71.134637">
+		<ele>121.644684</ele>
+		<time>2025-09-10T11:38:30Z</time>
+		<name>327</name>
+		<cmt>2025-09-10 4:38:30PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9215250742" lon="71.1463002954">
+		<ele>119.906342</ele>
+		<time>2025-09-10T11:39:38Z</time>
+		<name>325</name>
+		<cmt>2025-09-10 4:39:01PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9214875232" lon="71.1458282266">
+		<ele>119.884972</ele>
+		<time>2025-09-10T11:40:13Z</time>
+		<name>326</name>
+		<cmt>2025-09-10 4:39:43PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.917723" lon="71.135046">
+		<ele>120.474556</ele>
+		<time>2025-09-10T11:43:19Z</time>
+		<name>328</name>
+		<cmt>2025-09-10 4:43:19PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918120" lon="71.135024">
+		<ele>120.400093</ele>
+		<time>2025-09-10T11:43:59Z</time>
+		<name>329</name>
+		<cmt>2025-09-10 4:43:59PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.918530" lon="71.135086">
+		<ele>121.268127</ele>
+		<time>2025-09-10T11:44:34Z</time>
+		<name>330</name>
+		<cmt>2025-09-10 4:44:34PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.919346" lon="71.135357">
+		<ele>121.150719</ele>
+		<time>2025-09-10T11:45:48Z</time>
+		<name>331</name>
+		<cmt>2025-09-10 4:45:48PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9192062207" lon="71.1346388049">
+		<ele>120.496742</ele>
+		<time>2025-09-10T11:52:14Z</time>
+		<name>332</name>
+		<cmt>2025-09-10 4:46:25PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9202941079" lon="71.1349290702">
+		<ele>120.891968</ele>
+		<time>2025-09-10T11:52:34Z</time>
+		<name>333</name>
+		<cmt>2025-09-10 4:52:18PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.917376" lon="71.135005">
+		<ele>120.322472</ele>
+		<time>2025-09-10T11:53:27Z</time>
+		<name>334</name>
+		<cmt>2025-09-10 4:53:27PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.916668" lon="71.135857">
+		<ele>120.102722</ele>
+		<time>2025-09-10T11:54:15Z</time>
+		<name>335</name>
+		<cmt>2025-09-10 4:54:15PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.916593" lon="71.137032">
+		<ele>120.928612</ele>
+		<time>2025-09-10T11:57:04Z</time>
+		<name>336</name>
+		<cmt>2025-09-10 4:57:04PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9165820982" lon="71.1376547813">
+		<ele>119.452606</ele>
+		<time>2025-09-10T11:57:41Z</time>
+		<name>337</name>
+		<cmt>2025-09-10 4:57:31PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914907" lon="71.131114">
+		<ele>118.044380</ele>
+		<time>2025-09-10T12:01:01Z</time>
+		<name>338</name>
+		<cmt>2025-09-10 5:01:01PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914966" lon="71.130961">
+		<ele>117.609009</ele>
+		<time>2025-09-10T12:02:14Z</time>
+		<name>339</name>
+		<cmt>2025-09-10 5:02:14PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914897" lon="71.130489">
+		<ele>120.420898</ele>
+		<time>2025-09-10T12:03:20Z</time>
+		<name>340</name>
+		<cmt>2025-09-10 5:03:20PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914521" lon="71.130951">
+		<ele>118.172707</ele>
+		<time>2025-09-10T12:04:36Z</time>
+		<name>341</name>
+		<cmt>2025-09-10 5:04:36PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914037" lon="71.130891">
+		<ele>118.968811</ele>
+		<time>2025-09-10T12:04:57Z</time>
+		<name>342</name>
+		<cmt>2025-09-10 5:04:57PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914138" lon="71.130393">
+		<ele>117.814430</ele>
+		<time>2025-09-10T12:05:46Z</time>
+		<name>343</name>
+		<cmt>2025-09-10 5:05:46PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914308" lon="71.130283">
+		<ele>118.591148</ele>
+		<time>2025-09-10T12:06:06Z</time>
+		<name>344</name>
+		<cmt>2025-09-10 5:06:06PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.913438" lon="71.131206">
+		<ele>119.490669</ele>
+		<time>2025-09-10T12:07:42Z</time>
+		<name>345</name>
+		<cmt>2025-09-10 5:07:42PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.913054" lon="71.131299">
+		<ele>117.423294</ele>
+		<time>2025-09-10T12:08:04Z</time>
+		<name>346</name>
+		<cmt>2025-09-10 5:08:04PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.912624" lon="71.130887">
+		<ele>118.155212</ele>
+		<time>2025-09-10T12:08:25Z</time>
+		<name>347</name>
+		<cmt>2025-09-10 5:08:25PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.912087" lon="71.130375">
+		<ele>117.706169</ele>
+		<time>2025-09-10T12:08:44Z</time>
+		<name>348</name>
+		<cmt>2025-09-10 5:08:44PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.911736" lon="71.129891">
+		<ele>118.365021</ele>
+		<time>2025-09-10T12:09:00Z</time>
+		<name>349</name>
+		<cmt>2025-09-10 5:09:00PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9112108070" lon="71.1296090763">
+		<ele>117.516197</ele>
+		<time>2025-09-10T12:09:59Z</time>
+		<name>350</name>
+		<cmt>2025-09-10 5:09:35PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.910708" lon="71.129193">
+		<ele>117.621170</ele>
+		<time>2025-09-10T12:10:04Z</time>
+		<name>351</name>
+		<cmt>2025-09-10 5:10:04PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.910225" lon="71.129245">
+		<ele>118.260590</ele>
+		<time>2025-09-10T12:12:15Z</time>
+		<name>352</name>
+		<cmt>2025-09-10 5:12:15PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9105899595" lon="71.1302331928">
+		<ele>118.146454</ele>
+		<time>2025-09-10T12:13:05Z</time>
+		<name>353</name>
+		<cmt>2025-09-10 5:12:49PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9105775543" lon="71.1314445455">
+		<ele>118.093765</ele>
+		<time>2025-09-10T12:16:17Z</time>
+		<name>354</name>
+		<cmt>2025-09-10 5:13:08PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.915408" lon="71.130740">
+		<ele>118.865295</ele>
+		<time>2025-09-10T12:18:39Z</time>
+		<name>355</name>
+		<cmt>2025-09-10 5:18:39PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.915454" lon="71.130679">
+		<ele>118.863823</ele>
+		<time>2025-09-10T12:18:43Z</time>
+		<name>356</name>
+		<cmt>2025-09-10 5:18:43PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.915798" lon="71.130450">
+		<ele>116.623634</ele>
+		<time>2025-09-10T12:19:03Z</time>
+		<name>357</name>
+		<cmt>2025-09-10 5:19:03PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.915797" lon="71.129978">
+		<ele>118.220352</ele>
+		<time>2025-09-10T12:19:18Z</time>
+		<name>358</name>
+		<cmt>2025-09-10 5:19:18PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.915632" lon="71.129625">
+		<ele>117.185616</ele>
+		<time>2025-09-10T12:19:29Z</time>
+		<name>359</name>
+		<cmt>2025-09-10 5:19:29PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.915434" lon="71.129384">
+		<ele>118.176125</ele>
+		<time>2025-09-10T12:19:44Z</time>
+		<name>360</name>
+		<cmt>2025-09-10 5:19:43PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.915088" lon="71.129493">
+		<ele>117.201149</ele>
+		<time>2025-09-10T12:20:39Z</time>
+		<name>361</name>
+		<cmt>2025-09-10 5:20:39PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.915112" lon="71.129796">
+		<ele>117.967911</ele>
+		<time>2025-09-10T12:21:16Z</time>
+		<name>362</name>
+		<cmt>2025-09-10 5:21:16PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914805" lon="71.129623">
+		<ele>116.544182</ele>
+		<time>2025-09-10T12:22:08Z</time>
+		<name>363</name>
+		<cmt>2025-09-10 5:22:08PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914763" lon="71.130026">
+		<ele>117.339836</ele>
+		<time>2025-09-10T12:22:42Z</time>
+		<name>364</name>
+		<cmt>2025-09-10 5:22:42PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.914423" lon="71.129597">
+		<ele>116.974548</ele>
+		<time>2025-09-10T12:23:33Z</time>
+		<name>365</name>
+		<cmt>2025-09-10 5:23:33PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.915631" lon="71.129026">
+		<ele>118.149529</ele>
+		<time>2025-09-10T12:24:49Z</time>
+		<name>366</name>
+		<cmt>2025-09-10 5:24:49PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.924143" lon="71.132627">
+		<ele>117.116516</ele>
+		<time>2025-09-10T12:31:10Z</time>
+		<name>367</name>
+		<cmt>2025-09-10 5:31:10PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.924151" lon="71.132621">
+		<ele>117.120117</ele>
+		<time>2025-09-10T12:31:16Z</time>
+		<name>368</name>
+		<cmt>2025-09-10 5:31:16PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.924155" lon="71.132114">
+		<ele>117.346779</ele>
+		<time>2025-09-10T12:32:27Z</time>
+		<name>369</name>
+		<cmt>2025-09-10 5:32:27PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9241841491" lon="71.1314986087">
+		<ele>118.504181</ele>
+		<time>2025-09-10T12:34:03Z</time>
+		<name>370</name>
+		<cmt>2025-09-10 5:33:53PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.924073" lon="71.133189">
+		<ele>117.245895</ele>
+		<time>2025-09-10T12:35:20Z</time>
+		<name>371</name>
+		<cmt>2025-09-10 5:35:20PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9244480114" lon="71.1333063338">
+		<ele>116.531776</ele>
+		<time>2025-09-10T12:36:09Z</time>
+		<name>372</name>
+		<cmt>2025-09-10 5:35:58PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9236720987" lon="71.1327154096">
+		<ele>117.794296</ele>
+		<time>2025-09-10T12:39:28Z</time>
+		<name>373</name>
+		<cmt>2025-09-10 5:39:05PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.9231983535" lon="71.1328606680">
+		<ele>118.136200</ele>
+		<time>2025-09-10T12:39:39Z</time>
+		<name>374</name>
+		<cmt>2025-09-10 5:39:31PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="29.922699" lon="71.133027">
+		<ele>118.125328</ele>
+		<time>2025-09-10T12:39:43Z</time>
+		<name>375</name>
+		<cmt>2025-09-10 5:39:43PM</cmt>
+		<sym>Flag, Blue</sym>
+	</wpt>
+</gpx>

@@ -1,0 +1,20 @@
+USE master;
+GO
+
+-- Force disconnect any lingering sessions on the target DB
+ALTER DATABASE [BarqaabLT] 
+SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+GO
+
+-- Restore while renaming the destination physical files
+RESTORE DATABASE [BarqaabLT] 
+FROM DISK = 'D:\Barqaab\SqlBackup\Barqaab_11Oct26_061021.bak' -- Replace with your actual .bak path
+WITH MOVE 'Barqaab' TO 'C:\Program Files\Microsoft SQL Server\MSSQL17.SQL2025\MSSQL\DATA\BarqaabLT.mdf',
+     MOVE 'Barqaab_log' TO 'C:\Program Files\Microsoft SQL Server\MSSQL17.SQL2025\MSSQL\DATA\BarqaabLT_log.ldf',
+     REPLACE; -- Overwrites BarqaabLT if it already exists structurally
+GO
+
+-- Bring the database back online for normal use
+ALTER DATABASE [BarqaabLT] 
+SET MULTI_USER;
+GO
