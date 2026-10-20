@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link media="all" rel="stylesheet" type="text/css" href="../css/style.css"/>
+    <script type="text/javascript" src="../highcharts/highcharts.js"></script>
+    <script type="text/javascript" src="../highcharts/accessibility.js"></script>
+    <script type="text/javascript" src="../js/functions.js"></script>
+    <script type="text/javascript" src="../js/scenario.js"></script>
+  </head>
+  <body class="no-margin stats-body">
+    <div class="path"><div class='breadcrumbs'>
+      <a class="breadcrumb" id="2ea2f43b-01aa-436d-b497-5a32c5a3115b" href="javascript:void(0);" tabindex="0" onclick="treeNav(&#39;2ea2f43b-01aa-436d-b497-5a32c5a3115b&#39;, null)">Databases</a>
+      <a> &gt; </a>
+      <a class="breadcrumb" id="8ebbe0a1-321f-44ec-a7cc-319b12af2c1e" href="javascript:void(0);" tabindex="0" onclick="treeNav(&#39;8ebbe0a1-321f-44ec-a7cc-319b12af2c1e&#39;, null)">Barqaab_ppiWithData</a>
+      <a> &gt; </a>
+      <span style="font-weight: bold; color: blue" id="1f6bbaf6-eb61-4645-9054-90041fdcc22b">Tables</span>
+      </div>
+      <a tabindex='0' href='javascript:void(0);' role='button' aria-label='Minimize/maximize statistics' class='maximize-button' onclick='toggleAll()'>&#9974;</a>
+      <div class="clearfix"></div>
+    </div>
+    
+<div class='tab-navigation' >
+    <a id='stat-buttons-tab-0' class='stat-buttons-tab tab-selected' href='javascript:void(0);' tabindex='0' aria-label='Overview' role='tab' index='0' onclick='tabClicked(this)'>
+    
+        <div style='position:relative;top:4px;font-family:Arial;font-size:9.75pt;color:black;'>
+    Overview
+    
+        </div>
+    </a>
+    
+    <a id='stat-buttons-tab-2' class='stat-buttons-tab' href='javascript:void(0);' tabindex='0' aria-label='Details' role='tab' index='2' onclick='tabClicked(this)'>
+        <div style='position:relative;top:4px;font-family:Arial;font-size:9.75pt;color:black;'>Details</div>
+    </a>
+</div>
+
+    <div id="content-stat-buttons-tab-0" class="content-tab full-width">
+      <div class="scrollable-tab">
+        <div class="chart">
+          <div id="pieContainer">
+            <div id="pieConversion" class="half-width"></div>
+            <div id="pieEffort" class="half-width"></div>
+            <script>
+initPieChart(
+    [
+        {name: 'Automatic', y: 189, color: 'forestgreen'},
+        {name: 'Warning', y: 33, color: 'gold'},
+        {name: 'Error', y: 0, color: 'crimson'},
+    ],
+    'Object',
+    'Object Conversion<br>222 Object(s)',
+    'Breakdown of objects categorized by severity of conversion issues',
+    'pieConversion');
+initPieChart(
+    [
+        {name: 'Warning', y: 24.0, color: 'steelblue'},
+        {name: 'Error', y: 0, color: 'navy'},
+    ],
+    'Hour',
+    'Manual Conversion Time<br>24.0 Hour(s)',
+    'Distribution of estimated manual effort in hours',
+    'pieEffort');</script>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="chart-title">Objects Breakdown</div>
+        <div class="chart-subtitle">Child objects with conversion issues</div>
+        <div class="chart-legend-container">
+          <div class="sample info"></div>
+          Automatic
+          <div class="sample warning"></div>
+          Warning
+          <div class="sample error"></div>
+          Error
+          <br/>
+          <div class="sample warning-hours"></div>
+          Warning hours
+          <div class="sample error-hours"></div>
+          Error hours</div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;7349e247-b6c3-4813-bd62-83c59af029eb&#39;, null);">GNODES</div>
+          <div id="barChart0" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;b3176c4e-fd06-445f-8200-2ae4e890cda0&#39;, null);">INSTAREAOFINTPTS</div>
+          <div id="barChart2" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;7ead1135-eb13-44b5-b917-841d89c4c4fc&#39;, null);">INSTCUSTOMERS</div>
+          <div id="barChart6" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;363597ae-8163-47e1-8b80-7e56d38d0448&#39;, null);">INSTFAULTEVENTS</div>
+          <div id="barChart12" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;6007e671-a303-4c6e-bb0a-4fdcb32801fc&#39;, null);">INSTFEEDERSETITEM</div>
+          <div id="barChart15" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;2365c3af-9b74-49e0-860a-e6cbd99ef24f&#39;, null);">INSTMETERDMD</div>
+          <div id="barChart19" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;8483dd9a-67bf-4499-885d-8d021275b226&#39;, null);">INSTMYMAREAOFINT</div>
+          <div id="barChart23" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;1a62214b-f028-4ea6-b2d9-3fbaaae150aa&#39;, null);">INSTMYMCUSTOMERS</div>
+          <div id="barChart24" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;a9d2c475-d0f9-4956-8428-bcfcdf8dd3d6&#39;, null);">INSTMYMDGENS</div>
+          <div id="barChart25" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;efc79fb9-21a8-4ed7-b582-34f79ddc0bf2&#39;, null);">INSTMYMGENERATORS</div>
+          <div id="barChart26" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;9de8349e-376a-4e1c-9add-615fa764739c&#39;, null);">INSTMYMLARGECUST</div>
+          <div id="barChart27" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;250c4521-460c-44f4-9793-e4d64d1365d8&#39;, null);">INSTMYMLOADS</div>
+          <div id="barChart28" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;f0b3a7b6-c1d3-42a3-9602-bd0e78d4e1e4&#39;, null);">INSTMYMMETER</div>
+          <div id="barChart29" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;aa7cf8ce-34a7-4be6-a7ae-13c25729744c&#39;, null);">INSTMYMPROJLOADS</div>
+          <div id="barChart30" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;fb522e40-4a07-4557-8cc0-32a54c042403&#39;, null);">INSTMYMSECTIONS</div>
+          <div id="barChart31" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;d575ef39-6f1b-4837-affd-0705861494be&#39;, null);">INSTMYMSWDEVPOS</div>
+          <div id="barChart32" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;1dcf97ae-e927-437f-b144-447c0b278c61&#39;, null);">INSTSCHEMATICITEM</div>
+          <div id="barChart41" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;d994eb2c-5cc6-4427-b9b4-3b8e653f40df&#39;, null);">INSTSTORY</div>
+          <div id="barChart44" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;4b4923be-b8f3-4baa-9be8-538bf042eea6&#39;, null);">INSTSTORYITEM</div>
+          <div id="barChart45" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;31ad2bf4-8bc0-44b0-b485-fc8e8ca8bf12&#39;, null);">INSTSWGROUPS</div>
+          <div id="barChart47" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;e0c0697a-c7a5-4b35-8c0b-2a76a7177a25&#39;, null);">INSTSWPLAN</div>
+          <div id="barChart49" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;ab56a9e0-b516-49b4-b546-f07c843f03ab&#39;, null);">INSTSWPLANITEM</div>
+          <div id="barChart50" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;62ba6e17-de51-496a-b7f7-cb19e083292f&#39;, null);">INSTTCCITEM</div>
+          <div id="barChart51" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;b5a7776d-3447-4d5b-95c7-1ebca74474fa&#39;, null);">INSTTRANLINE</div>
+          <div id="barChart55" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;2178787e-c9f9-4d02-98a1-edb35f711725&#39;, null);">INSTTRANVERTICES</div>
+          <div id="barChart56" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;2aea319a-4365-494f-9122-a242cbd66ac5&#39;, null);">INSTWHATIF</div>
+          <div id="barChart58" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;80c2709d-be44-4651-8ea5-862376d8bf51&#39;, null);">LOADS</div>
+          <div id="barChart59" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="bar-chart-container">
+          <div class="bar-chart-label clickable" onclick="treeNav(&#39;487c80df-409e-4cba-827b-deb1433a23ec&#39;, null);">SAI_CONTROL</div>
+          <div id="barChart61" class="bar-chart"></div>
+          <div class="clearfix"></div>
+        </div>
+        <script>barCharts.push({'barChartName':barChart0,'totalElements':6,'automaticElements':5,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart2,'totalElements':3,'automaticElements':2,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart6,'totalElements':4,'automaticElements':3,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':1.5});barCharts.push({'barChartName':barChart12,'totalElements':3,'automaticElements':2,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart15,'totalElements':6,'automaticElements':4,'errorElements':0,'warningElements':2,'infoElements':0,'errorHours':0,'warningHours':2.0});barCharts.push({'barChartName':barChart19,'totalElements':3,'automaticElements':2,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':1.5});barCharts.push({'barChartName':barChart23,'totalElements':5,'automaticElements':4,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart24,'totalElements':4,'automaticElements':2,'errorElements':0,'warningElements':2,'infoElements':0,'errorHours':0,'warningHours':2.0});barCharts.push({'barChartName':barChart25,'totalElements':3,'automaticElements':2,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart26,'totalElements':5,'automaticElements':3,'errorElements':0,'warningElements':2,'infoElements':0,'errorHours':0,'warningHours':2.0});barCharts.push({'barChartName':barChart27,'totalElements':3,'automaticElements':2,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart28,'totalElements':4,'automaticElements':3,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':1.0});barCharts.push({'barChartName':barChart29,'totalElements':3,'automaticElements':2,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart30,'totalElements':5,'automaticElements':4,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart31,'totalElements':4,'automaticElements':3,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart32,'totalElements':4,'automaticElements':3,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart41,'totalElements':6,'automaticElements':5,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart44,'totalElements':4,'automaticElements':3,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart45,'totalElements':2,'automaticElements':1,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':1.0});barCharts.push({'barChartName':barChart47,'totalElements':3,'automaticElements':1,'errorElements':0,'warningElements':2,'infoElements':0,'errorHours':0,'warningHours':2.0});barCharts.push({'barChartName':barChart49,'totalElements':5,'automaticElements':4,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart50,'totalElements':6,'automaticElements':5,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':1.0});barCharts.push({'barChartName':barChart51,'totalElements':6,'automaticElements':4,'errorElements':0,'warningElements':2,'infoElements':0,'errorHours':0,'warningHours':2.0});barCharts.push({'barChartName':barChart55,'totalElements':4,'automaticElements':3,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart56,'totalElements':6,'automaticElements':5,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart58,'totalElements':3,'automaticElements':2,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0.5});barCharts.push({'barChartName':barChart59,'totalElements':3,'automaticElements':2,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0});barCharts.push({'barChartName':barChart61,'totalElements':1,'automaticElements':0,'errorElements':0,'warningElements':1,'infoElements':0,'errorHours':0,'warningHours':0});</script>
+      </div>
+    </div>
+    <div id="content-stat-buttons-tab-2" class="scrollable-tab content-tab full-width tab-content-hidden">
+      <div class="raw-data">
+        <table class="stats-table">
+          <caption>
+            <b>Objects Conversion</b>
+          </caption>
+          <colgroup>
+            <col style="width: 139px"></col>
+            <col style="width: 51px"></col>
+            <col style="width: 79px"></col>
+            <col style="width: 79px"></col>
+          </colgroup>
+          <tbody>
+            <tr>
+              <th>Object type</th>
+              <th>Total</th>
+              <th>Converted</th>
+              <th>Objects with Issues</th>
+              <th>Error Objects</th>
+              <th>Warning Objects</th>
+              <th>Info Objects</th>
+              <th>Error Hours</th>
+              <th>Warning Hours</th>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr height="35">
+              <td class="align-left">
+                <span>table</span>
+              </td>
+              <td>
+                <span>62</span>
+              </td>
+              <td>
+                <span>96.77 %
+                  <img src="../img/error.gif"></img>
+                </span>
+              </td>
+              <td>
+                <span>2</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>2</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+            </tr>
+            <tr height="35">
+              <td class="align-left">
+                <span>index</span>
+              </td>
+              <td>
+                <span>38</span>
+              </td>
+              <td>
+                <span>100 %</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+            </tr>
+            <tr height="35">
+              <td class="align-left">
+                <span>unique-constraint</span>
+              </td>
+              <td>
+                <span>12</span>
+              </td>
+              <td>
+                <span>100 %</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+            </tr>
+            <tr height="35">
+              <td class="align-left">
+                <span>foreign-key</span>
+              </td>
+              <td>
+                <span>50</span>
+              </td>
+              <td>
+                <span>84 %
+                  <img src="../img/error.gif"></img>
+                </span>
+              </td>
+              <td>
+                <span>8</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>8</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>11.0</span>
+              </td>
+            </tr>
+            <tr height="35">
+              <td class="align-left">
+                <span>primary-key</span>
+              </td>
+              <td>
+                <span>60</span>
+              </td>
+              <td>
+                <span>61.67 %
+                  <img src="../img/error.gif"></img>
+                </span>
+              </td>
+              <td>
+                <span>23</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>23</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>13.0</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="raw-data">
+        <table class="stats-table">
+          <caption>
+            <div>
+              <b>Syntax Conversion</b>
+            </div>
+          </caption>
+          <colgroup>
+            <col style="width: 139px"></col>
+            <col style="width: 51px"></col>
+            <col style="width: 79px"></col>
+            <col style="width: 79px"></col>
+          </colgroup>
+          <tbody>
+            <tr>
+              <th>Syntax element</th>
+              <th>Total</th>
+              <th>Converted</th>
+              <th>Syntax elements with Issues</th>
+              <th>Error elements</th>
+              <th>Warning elements</th>
+              <th>Info elements</th>
+              <th>Error Hours</th>
+              <th>Warning Hours</th>
+            </tr>
+            <tr>
+              <td class="align-left">
+                <span>&lt;ALL&gt;</span>
+              </td>
+              <td>
+                <span>1580</span>
+              </td>
+              <td>
+                <span>97.72 %
+                  <img src="../img/error.gif"></img>
+                </span>
+              </td>
+              <td>
+                <span>36</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>36</span>
+              </td>
+              <td>
+                <span>445</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>24.0</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="align-left">
+                <span>column</span>
+              </td>
+              <td>
+                <span>1418</span>
+              </td>
+              <td>
+                <span>100 %</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>285</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="align-left">
+                <span>foreign-key</span>
+              </td>
+              <td>
+                <span>50</span>
+              </td>
+              <td>
+                <span>84 %
+                  <img src="../img/error.gif"></img>
+                </span>
+              </td>
+              <td>
+                <span>8</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>8</span>
+              </td>
+              <td>
+                <span>50</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>11.0</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="align-left">
+                <span>index</span>
+              </td>
+              <td>
+                <span>38</span>
+              </td>
+              <td>
+                <span>100 %</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>38</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="align-left">
+                <span>primary-key</span>
+              </td>
+              <td>
+                <span>60</span>
+              </td>
+              <td>
+                <span>56.67 %
+                  <img src="../img/error.gif"></img>
+                </span>
+              </td>
+              <td>
+                <span>26</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>26</span>
+              </td>
+              <td>
+                <span>60</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>13.0</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="align-left">
+                <span>unique-constraint</span>
+              </td>
+              <td>
+                <span>12</span>
+              </td>
+              <td>
+                <span>100 %</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>12</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+              <td>
+                <span>0</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>
+</html>
